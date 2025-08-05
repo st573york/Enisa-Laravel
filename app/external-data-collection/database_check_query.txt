@@ -1,0 +1,65 @@
+
+--------------------------------------------------------------------------
+-- Reset the auto increment id column of indicators_eurostat table
+--------------------------------------------------------------------------
+
+ALTER TABLE eurostat.indicators_eurostat AUTO_INCREMENT = 1;
+
+select count(distinct id) from eurostat.indicators_eurostat_variables;
+-- DELETE FROM eurostat.indicators_eurostat WHEre id between 1 and 27;
+
+select max(id) from eurostat.indicators_eurostat_variables;
+select max(id) from eurostat.indicators_eurostat;
+
+DELETE FROM eurostat.indicators_eurostat WHEre id between 1 and 405;
+DELETE FROM eurostat.indicators_eurostat_variables WHERE id between 1 and 783;
+select * from eurostat.indicators_eurostat;
+select * from eurostat.indicators_eurostat_variables;
+
+
+--------------------------------------------------------------------------
+-- Join tables
+--------------------------------------------------------------------------
+
+select a.identifier, a.name, a.value,  
+		b.variable_identifier, b.variable_name, b.variable_value, 
+		c.name, c.id
+from eurostat.indicators_eurostat a, eurostat.indicators_eurostat_variables b, eurostat.countries c
+where a.id = b.indicator_eurostat_id
+and c.id = a.country_id;
+
+--------------------------------------------------------------------------
+-- checks
+--------------------------------------------------------------------------
+
+select count(distinct identifier) from eurostat.indicators_eurostat;
+-- 15
+
+select count(distinct id) from eurostat.indicators_eurostat;
+-- 405
+select 15*27 from dual;
+-- 405 
+
+select count(distinct id) from eurostat.indicators_eurostat_variables;
+-- 783
+
+select count(distinct variable_identifier) from eurostat.indicators_eurostat_variables;
+-- 29
+
+-- (16 from 2 indicators and 13 from the rest)
+
+select count(distinct variable_identifier) from eurostat.indicators_eurostat_variables a, eurostat.indicators_eurostat b
+where a.indicator_eurostat_id=b.id
+and b.identifier = '2';
+-- 8
+
+
+
+select distinct identifier, country_id from eurostat.indicators_eurostat;
+-- 16
+
+
+ALTER TABLE eurostat.indicators_eurostat_variables RENAME COLUMN variable_name TO variable_code; 
+
+
+ALTER TABLE eurostat.indicators_eurostat_variables  ADD variable_name varchar(1052); 

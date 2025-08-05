@@ -1,0 +1,95 @@
+{
+    "indicators": [
+        {
+            "id": "1",
+            "answers": [
+                {
+                    "order": "0",
+                    "values": [
+                        "1","2","5","9","17"
+                    ]
+                }
+            ],
+            "rating": "0",
+            "comment": null
+        },
+        {
+            "id": "2",
+            "answers": [
+                {
+                    "order": "0",
+                    "values": [
+                        "-2"
+                    ]
+                }
+            ],
+            "rating": "0",
+            "comment": null
+        },
+        {
+            "id": "3",
+            "answers": [
+                {
+                    "order": "0",
+                    "values": [
+                        null
+                    ]
+                }
+            ],
+            "rating": "0",
+            "comment": null
+        },
+        {
+            "id": "3",
+            "answers": [
+                {
+                    "order": "1",
+                    "values": [
+                        null
+                    ]
+                }
+            ],
+            "rating": "0",
+            "comment": null
+        },
+        {
+            "id": "3",
+            "answers": [
+                {
+                    "order": "2",
+                    "values": [
+                        null
+                    ]
+                }
+            ],
+            "rating": "0",
+            "comment": null
+        },
+        {
+            "id": "4",
+            "answers": [
+                {
+                    "order": "0",
+                    "values": [
+                        "-2"
+                    ]
+                }
+            ],
+            "rating": "0",
+            "comment": null
+        },
+        {
+            "id": "4",
+            "answers": [
+                {
+                    "order": "1",
+                    "values": [
+                        "-1"
+                    ]
+                }
+            ],
+            "rating": "0",
+            "comment": null
+        }
+    ]
+}

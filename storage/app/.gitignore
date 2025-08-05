@@ -1,0 +1,9 @@
+sample-data/
+*.json
+*.xlsx
+!imports/
+!index_template.json
+!public/
+!.gitignore
+index_calculations
+

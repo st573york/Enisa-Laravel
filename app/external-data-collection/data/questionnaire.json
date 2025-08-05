@@ -1,0 +1,359 @@
+{
+    "title": "Cybersecurity Index 2002: Questionnaire for Member States",
+    "contents": [
+        {
+            "id": 1,
+            "form": [
+                {
+                    "type": "multiple-choice",
+                    "order": 0,
+                    "choice": [
+                        {
+                            "name": "Choose answer",
+                            "value": "",
+                            "selected": true
+                        },
+                        {
+                            "name": "Prefer not to answer",
+                            "value": "-1",
+                            "selected": true
+                        },
+                        {
+                            "name": "Don't know",
+                            "value": "-2"
+                        }
+                    ],
+                    "answers": [],
+                    "options": [
+                        {
+                            "text": "Develop national cyber contingency plans",
+                            "value": "1"
+                        },
+                        {
+                            "text": "Establish baseline security measures ",
+                            "value": "2"
+                        },
+                        {
+                            "text": "Secure digital identity and build trust in digital public services ",
+                            "value": "3"
+                        },
+                        {
+                            "text": "Establish an incident response capability ",
+                            "value": "4"
+                        },
+                        {
+                            "text": "Raise user awareness",
+                            "value": "5"
+                        },
+                        {
+                            "text": "Organise cyber security exercises",
+                            "value": "6"
+                        },
+                        {
+                            "text": "Strengthen training and educational programmes",
+                            "value": "7"
+                        },
+                        {
+                            "text": "Foster R&D",
+                            "value": "8"
+                        },
+                        {
+                            "text": "Provide incentives for the private sector to invest in security measures",
+                            "value": "9"
+                        },
+                        {
+                            "text": "Improve the cybersecurity of the supply chain",
+                            "value": "10"
+                        },
+                        {
+                            "text": "Protect critical information infrastructure",
+                            "value": "11"
+                        },
+                        {
+                            "text": "Address cybercrime ",
+                            "value": "12"
+                        },
+                        {
+                            "text": "Establish incident reporting mechanisms",
+                            "value": "13"
+                        },
+                        {
+                            "text": "Balance security with privacy",
+                            "value": "14"
+                        },
+                        {
+                            "text": "Establish a public-private partnership (PPP)",
+                            "value": "15"
+                        },
+                        {
+                            "text": "Institutionalise cooperation between public agencies",
+                            "value": "16"
+                        },
+                        {
+                            "text": "Engage in international cooperation (not only with EU MS)",
+                            "value": "17"
+                        },
+                        {
+                            "text": "All objectives are covered in the current NCSS",
+                            "value": "18"
+                        }
+                    ],
+                    "question": "Which objective(s) do you cover in your current NCSS or do you plan to cover it in the next edition?"
+                }
+            ],
+            "type": "form-indicator-1",
+            "notes": null,
+            "title": "The coverage and objectives of the NCSS",
+            "number": "2.2",
+            "rating": "0",
+            "source": "",
+            "comments": null,
+            "algorithm": "<div class=\"row\">\r\n    <div class=\"col-10 offset-1\">\r\n        <table class=\"table table-striped table-hover json-table\">                     \r\n            <tbody>                       \r\n                <tr>                           \r\n                    <td>\r\n                        <p><u><span>Original Indicator/Algorithm</span></u><span>:&nbsp;</span></p>\r\n                        <p><span>NCSS coverage = if Whole of Government then 20%; if Whole of Nation then 75%; if Whole of System then 100%  </span></p>\r\n                    </td>\r\n                </tr> \r\n                <tr>\r\n                    <td>\r\n                        <p><u><span>Current Indicator/Algorithm</span></u><span>:&nbsp;</span></p>\r\n                        <p><span>NCSS coverage = number of pre-defined NCSS objectives covered  </span></p>\r\n                    </td>\r\n                </td>\r\n                <tr>\r\n                    <td>\r\n                        <p><u><span>Reason for change:</span></u></p>\r\n                        <p><span>The current version provides a more objective way to assess the coverage of a country’s NCSS. </span></p>\r\n                    </td>\r\n                </tr>                     \r\n            </tbody>\r\n        </table>\r\n    </div>\r\n</div>\r\n",
+            "identifier": "3"
+        },
+        {
+            "id": 2,
+            "form": [
+                {
+                    "type": "single-choice",
+                    "order": 0,
+                    "choice": [
+                        {
+                            "name": "Choose answer",
+                            "value": "",
+                            "selected": true
+                        },
+                        {
+                            "name": "Prefer not to answer",
+                            "value": "-1"
+                        },
+                        {
+                            "name": "Don't know",
+                            "value": "-2",
+                            "selected": true
+                        }
+                    ],
+                    "answers": [],
+                    "options": [
+                        {
+                            "text": "No = 0%",
+                            "value": "0"
+                        },
+                        {
+                            "text": "Yes = 100%",
+                            "value": "1"
+                        }
+                    ],
+                    "question": "Is cybersecurity included in your National Risk Assessment? "
+                }
+            ],
+            "type": "form-indicator-2",
+            "notes": null,
+            "title": "Cybersecurity is included in the National level Risk Assessment (NRA)",
+            "number": "2.3",
+            "rating": "0",
+            "source": "",
+            "comments": null,
+            "algorithm": "<div class=\"row\">\r\n    <div class=\"col-10 offset-1\">\r\n        <table class=\"table table-striped table-hover json-table\">                   \r\n            <tbody>                       \r\n                <tr>                           \r\n                    <td>\r\n                        <p><u><span>Original Indicator/Algorithm</span></u><span>:&nbsp;</span></p>\r\n                        <p><span>Cybersecurity included in the National Risk Assessment = evidence [0 ..1]. </span></p>\r\n                    </td>\r\n                </tr> \r\n                <tr>\r\n                    <td>\r\n                        <p><u><span>Current Indicator/Algorithm</span></u><span>:&nbsp;</span></p>\r\n                        <p><span>Cybersecurity included in the National Risk Assessment = 100% (if YES); 0% (if NO) </span></p>\r\n                    </td>\r\n                </td>\r\n                <tr>\r\n                    <td>\r\n                        <p><u><span>Reason for change:</span></u></p>\r\n                        <p><span>The original version foresees the submission of evidence by the MS, which is deemed unnecessary. </span></p>\r\n                    </td>\r\n                </tr>                      \r\n            </tbody>\r\n        </table>\r\n    </div>\r\n</div>",
+            "identifier": "1"
+        },
+        {
+            "id": 3,
+            "form": [
+                {
+                    "type": "single-choice",
+                    "order": 0,
+                    "choice": [
+                        {
+                            "name": "Choose answer",
+                            "value": "",
+                            "selected": true
+                        },
+                        {
+                            "name": "Prefer not to answer",
+                            "value": "-1"
+                        },
+                        {
+                            "name": "Don't know",
+                            "value": "-2"
+                        }
+                    ],
+                    "answers": [
+                        []
+                    ],
+                    "options": [
+                        {
+                            "text": "if the Directive is fully transposed (notification sent to the EC) and entered into force",
+                            "value": "100%"
+                        },
+                        {
+                            "text": "when legislation has been transposed (notification sent to EC), but entry into effect is in the future",
+                            "value": "70%"
+                        },
+                        {
+                            "text": "when national legislation partially covers Directive requirements,  but full transposition is pending",
+                            "value": "40%"
+                        },
+                        {
+                            "text": "otherwise",
+                            "value": "0%"
+                        }
+                    ],
+                    "question": "Directive (EU) 2018/1972 establishing the European Electronic Communications Code (EECC)"
+                },
+                {
+                    "type": "single-choice",
+                    "order": 1,
+                    "choice": [
+                        {
+                            "name": "I want to answer",
+                            "value": "",
+                            "selected": true
+                        },
+                        {
+                            "name": "I don't want to answer",
+                            "value": "-1"
+                        },
+                        {
+                            "name": "I cannot answer",
+                            "value": "-2"
+                        }
+                    ],
+                    "answers": [
+                        []
+                    ],
+                    "options": [
+                        {
+                            "text": "if the Directive is fully transposed (notification sent to the EC) and entered into force",
+                            "value": "100%"
+                        },
+                        {
+                            "text": "when legislation has been transposed (notification sent to EC), but entry into effect is in the future",
+                            "value": "70%"
+                        },
+                        {
+                            "text": "when national legislation partially covers Directive requirements,  but full transposition is pending",
+                            "value": "40%"
+                        },
+                        {
+                            "text": "otherwise",
+                            "value": "0%"
+                        }
+                    ],
+                    "question": "Directive (EU) 2016/1148 on measures for a high common level of cybersecurity across the Union (NIS Directive)"
+                },
+                {
+                    "type": "single-choice",
+                    "order": 2,
+                    "choice": [
+                        {
+                            "name": "I want to answer",
+                            "value": "",
+                            "selected": true
+                        },
+                        {
+                            "name": "I don't want to answer",
+                            "value": "-1"
+                        },
+                        {
+                            "name": "I cannot answer",
+                            "value": "-2"
+                        }
+                    ],
+                    "answers": [
+                        []
+                    ],
+                    "options": [
+                        {
+                            "text": "if the Directive is fully transposed (notification sent to the EC) and entered into force",
+                            "value": "100%"
+                        },
+                        {
+                            "text": "when legislation has been transposed (notification sent to EC), but entry into effect is in the future",
+                            "value": "70%"
+                        },
+                        {
+                            "text": "when national legislation partially covers Directive requirements,  but full transposition is pending",
+                            "value": "40%"
+                        },
+                        {
+                            "text": "otherwise",
+                            "value": "0%"
+                        }
+                    ],
+                    "question": "Directive (EU)2014/54 on the harmonisation of the laws of the Member States relating to the making available on the market of radio equipment (RED Directive)"
+                }
+            ],
+            "type": "form-indicator-3",
+            "notes": null,
+            "title": "Implementation state of general cybersecurity-related EU Directives and Regulation.",
+            "number": "2.4",
+            "rating": "0",
+            "source": "",
+            "comments": null,
+            "algorithm": "<div class=\"row\">\r\n  <div class=\"col-10 offset-1\">\r\n      <table class=\"table table-striped table-hover json-table\">                   \r\n          <tbody>                       \r\n              <tr>                           \r\n                  <td>\r\n                      <p><u><span>Original Indicator/Algorithm</span></u><span>:&nbsp;</span></p>\r\n                      <p><span>Transposition indicator = SUM(state of eligible Directive/Regulationi * weighti )/TOTAL(number of eligible Directives/Regulations) </span></p>\r\n                      <p><span>    State of eligible (cybersecurity related parts of) Directive/Regulation[i] = </span></p>\r\n\r\n                      <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 100% &nbsp; if the Directive is fully transposed and implemented (after becoming effective at the EU-level).<br>\r\n                          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 100% &nbsp; if the Regulation is effective in a country (after becoming effective at the EU-level).<br>\r\n                          &nbsp; &nbsp; &nbsp; &nbsp; 70% &nbsp;when legislation is ready nationally, but entry into effect is in the future. <br>&nbsp; &nbsp; &nbsp; &nbsp; 40% &nbsp;when national\r\n                          legislation\r\n                          partially covers Directive requirements, but full transposition is pending.<br>&nbsp; &nbsp; &nbsp; &nbsp;\r\n                          &nbsp; 0% &nbsp;otherwise</span>\r\n                      </p>\r\n                  </td>\r\n              </tr> \r\n              <tr>\r\n                  <td>\r\n                      <p><u><span>Current Indicator/Algorithm</span></u><span>:&nbsp;</span></p>\r\n                      <p><span>Transposition indicator = SUM(state of eligible Directive * weight)/TOTAL(number of eligible Directives)</span></p>\r\n                      <p><span>State of eligible (cybersecurity related parts of) Directive/Regulation[i] = </span></p>\r\n                      <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 100% &nbsp; if the Directive is fully transposed (notification sent to the EC) and entered into force<br>\r\n                          &nbsp; &nbsp; &nbsp; &nbsp; 70% &nbsp;when legislation has been transposed (notification sent to the EC), but entry into effect is in the future. \r\n                          <br>\r\n                          &nbsp; &nbsp; &nbsp; &nbsp; 40% &nbsp;when national legislation partially covers Directive requirements, but full transposition is pending. \r\n                          <br>&nbsp; &nbsp; &nbsp; &nbsp;\r\n                          &nbsp; 0% &nbsp;otherwise</span>\r\n                      </p>\r\n                  </td>\r\n              </td>\r\n              <tr>\r\n                  <td>\r\n                      <p><u><span>Reason for change:</span></u></p>\r\n                      <p><span>The original version foresees the submission of evidence by the MS, which is deemed unnecessary. </span></p>\r\n                  </td>\r\n              </tr>                      \r\n          </tbody>\r\n      </table>\r\n  </div>\r\n</div>",
+            "identifier": "13"
+        },
+        {
+            "id": 4,
+            "form": [
+                {
+                    "type": "free-text",
+                    "order": 0,
+                    "choice": [
+                        {
+                            "name": "Choose answer",
+                            "value": "",
+                            "selected": true
+                        },
+                        {
+                            "name": "Prefer not to answer",
+                            "value": "-1"
+                        },
+                        {
+                            "name": "Don't know",
+                            "value": "-2"
+                        }
+                    ],
+                    "answers": [
+                        null
+                    ],
+                    "question": "How many unique registered infringement cases concerning information security (GDPR articles 28, 32, 34, or 35-39) above 50.000 euro did you have in 2021?"
+                },
+                {
+                    "type": "free-text",
+                    "order": 1,
+                    "choice": [
+                        {
+                            "name": "I want to answer",
+                            "value": "",
+                            "selected": true
+                        },
+                        {
+                            "name": "I don't want to answer",
+                            "value": "-1"
+                        },
+                        {
+                            "name": "I cannot answer",
+                            "value": "-2"
+                        }
+                    ],
+                    "answers": [
+                        null
+                    ],
+                    "question": "What was the share of the GDPR infringement cases concerning information security (GDPR articles 28, 32, 34, or 35-39) over the overall GDPR infringement cases in 2021?"
+                }
+            ],
+            "type": "form-indicator-4",
+            "notes": null,
+            "title": "Information security compliance GDPR (organisations)",
+            "number": "2.5",
+            "rating": "0",
+            "source": "",
+            "comments": null,
+            "algorithm": "<div class=\"row\">\r\n    <div class=\"col-10 offset-1\">\r\n        <table class=\"table table-striped table-hover json-table\">                   \r\n            <tbody>                       \r\n                <tr>                           \r\n                    <td>\r\n                        <p><u><span>Original Indicator/Algorithm</span></u><span>:&nbsp;</span></p>\r\n                        <p><em><span>Information security compliance GDPR = RANK (# of Information-security cases per 1 M citizens; high to low) / #EU MS </span></em></p>\r\n                        <p><em><span>Information-security cases GDPR = # unique registered infringement cases concerning the infosec related GDPR articles 28, 32, 34, 35-39 per EU country in year X </span></em></p>\r\n                        <p><em><span># of Information-security cases GDPR per 1 M citizens = # of Information-security cases / Population size (million)\" </span></em></p>\r\n\r\n                    </td>\r\n                </tr> \r\n                <tr>\r\n                    <td>\r\n                        <p><u><span>Current Indicator/Algorithm</span></u><span>:&nbsp;</span></p>\r\n                        <p><em><span>Information security compliance GDPR = RANK (# of Information-security cases above 50.0000 euro per 1 M citizens; high to low) / #EU MS </span></em></p>\r\n                        <p><em><span>Share of the GDPR infringement cases concerning information security (GDPR articles 28, 32, 34, or 35-39) over the overall GDPR infringement cases </span></em></p>\r\n                    </td>\r\n                </td>\r\n                <tr>\r\n                    <td>\r\n                        <p><u><span>Reason for change:</span></u></p>\r\n                        <p><em><span>Focus on more important infringement cases; have a view of the importance of information security with respect to the overall GDPR cases </span></em></p>\r\n                    </td>\r\n            </tbody>\r\n        </table>\r\n    </div>\r\n</div>\r\n",
+            "identifier": "15"
+        }
+    ],
+    "sections": 6
+}

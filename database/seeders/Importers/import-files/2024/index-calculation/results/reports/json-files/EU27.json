@@ -1,0 +1,2615 @@
+[
+  {
+    "date": "July 2024",
+    "scores": {
+      "euAverage": 62.65,
+      "numberOfCountries": {
+        "above": 0,
+        "around": 26,
+        "below": 1
+      }
+    },
+    "speedometer": "Med",
+    "deviation": {
+      "avg": 3.76,
+      "max": 7.45,
+      "min": -13.18
+    },
+    "areas": [
+      {
+        "name": "Capacity",
+        "description": "This area describes the ability of society to recognise threats and prevent incidents.",
+        "scores": [
+          {
+            "euAverage": 64.51,
+            "numberOfCountries": {
+              "above": 2,
+              "around": 23,
+              "below": 2
+            },
+            "speedometer": "Med",
+            "deviation": [
+              {
+                "avg": 4.73,
+                "max": 11.42,
+                "min": -14.29
+              }
+            ]
+          }
+        ],
+        "subareas": [
+          {
+            "name": "Cyber hygiene",
+            "description": "Implementation of measures for cyber hygiene.",
+            "scores": [
+              {
+                "euAverage": 73.12,
+                "numberOfCountries": {
+                  "above": 3,
+                  "around": 22,
+                  "below": 2
+                },
+                "speedometer": "Med",
+                "deviation": [
+                  {
+                    "avg": 5.12,
+                    "max": 12.89,
+                    "min": -13.87
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Cybersecurity awareness",
+            "description": "Knowledge and understanding of cybersecurity and efforts to increase cybersecuirty awareness.",
+            "scores": [
+              {
+                "euAverage": 58.77,
+                "numberOfCountries": {
+                  "above": 1,
+                  "around": 25,
+                  "below": 1
+                },
+                "speedometer": "Med",
+                "deviation": [
+                  {
+                    "avg": 5.08,
+                    "max": 10.91,
+                    "min": -11.87
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Cybersecurity skills and education",
+            "description": "Availability of measures to increase specialised cybersecurity skills and knowledge.",
+            "scores": [
+              {
+                "euAverage": 61.63,
+                "numberOfCountries": {
+                  "above": 8,
+                  "around": 13,
+                  "below": 6
+                },
+                "speedometer": "Med",
+                "deviation": [
+                  {
+                    "avg": 10.45,
+                    "max": 22.13,
+                    "min": -33.49
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Market/Industry",
+        "description": "This area describes the ability of the private sector to prevent, detect, and analyse cyber threats and incidents.",
+        "scores": [
+          {
+            "euAverage": 62.36,
+            "numberOfCountries": {
+              "above": 0,
+              "around": 27,
+              "below": 0
+            },
+            "speedometer": "Med",
+            "deviation": [
+              {
+                "avg": 2.78,
+                "max": 7.54,
+                "min": -7.06
+              }
+            ]
+          }
+        ],
+        "subareas": [
+          {
+            "name": "Cybersecurity investments and innovation",
+            "description": "Extent to which enterprises invest into their current and future security.",
+            "scores": [
+              {
+                "euAverage": 21.1,
+                "numberOfCountries": {
+                  "above": 3,
+                  "around": 18,
+                  "below": 6
+                },
+                "speedometer": "Med",
+                "deviation": [
+                  {
+                    "avg": 7.88,
+                    "max": 23.87,
+                    "min": -14.91
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Cybersecurity governance within organisations",
+            "description": "Extent to which enterprises implement policy and measures to prevent cyber incidents.",
+            "scores": [
+              {
+                "euAverage": 52.58,
+                "numberOfCountries": {
+                  "above": 2,
+                  "around": 21,
+                  "below": 4
+                },
+                "speedometer": "Med",
+                "deviation": [
+                  {
+                    "avg": 7.03,
+                    "max": 16.08,
+                    "min": -12.79
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Large enterprises: Impact of cybersecurity incidents",
+            "description": "Extent to which large enterprises have suffered\nfrom cybersecurity incidents.",
+            "scores": [
+              {
+                "euAverage": 83.93,
+                "numberOfCountries": {
+                  "above": 0,
+                  "around": 26,
+                  "below": 1
+                },
+                "speedometer": "Med",
+                "deviation": [
+                  {
+                    "avg": 4.4,
+                    "max": 8.4,
+                    "min": -14.16
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "SMEs: Impact of cybersecurity incidents",
+            "description": "Extent to which SMEs have suffered from cybersecurity incidents.",
+            "scores": [
+              {
+                "euAverage": 91.81,
+                "numberOfCountries": {
+                  "above": 0,
+                  "around": 27,
+                  "below": 0
+                },
+                "speedometer": "Med",
+                "deviation": [
+                  {
+                    "avg": 2.33,
+                    "max": 3.7,
+                    "min": -9.09
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Operations",
+        "description": "This area describes the ability of a MS to carry out operations to ensure resilience.",
+        "scores": [
+          {
+            "euAverage": 57.63,
+            "numberOfCountries": {
+              "above": 2,
+              "around": 23,
+              "below": 2
+            },
+            "speedometer": "Med",
+            "deviation": [
+              {
+                "avg": 6.24,
+                "max": 15.14,
+                "min": -11.72
+              }
+            ]
+          }
+        ],
+        "subareas": [
+          {
+            "name": "Threat and vulnerability management ",
+            "description": "Efforts for threat and vulnerability management.",
+            "scores": [
+              {
+                "euAverage": 51.85,
+                "numberOfCountries": {
+                  "above": 7,
+                  "around": 13,
+                  "below": 7
+                },
+                "speedometer": "Med",
+                "deviation": [
+                  {
+                    "avg": 12.69,
+                    "max": 25,
+                    "min": -24.07
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Operational cooperation",
+            "description": "Definition of a framework for cooperation at the national level.",
+            "scores": [
+              {
+                "euAverage": 77.61,
+                "numberOfCountries": {
+                  "above": 5,
+                  "around": 17,
+                  "below": 5
+                },
+                "speedometer": "Med",
+                "deviation": [
+                  {
+                    "avg": 8.67,
+                    "max": 22.39,
+                    "min": -20.25
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "National-level response preparedness",
+            "description": "Extent to which a country is prepared to deal with cyber-related issues.",
+            "scores": [
+              {
+                "euAverage": 56.42,
+                "numberOfCountries": {
+                  "above": 7,
+                  "around": 15,
+                  "below": 5
+                },
+                "speedometer": "Med",
+                "deviation": [
+                  {
+                    "avg": 8.95,
+                    "max": 19.88,
+                    "min": -25.09
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Resilience of key operators ",
+            "description": "Resilience of key operators in\nterms of incidents and their duration.",
+            "scores": [
+              {
+                "euAverage": 44.63,
+                "numberOfCountries": {
+                  "above": 6,
+                  "around": 15,
+                  "below": 6
+                },
+                "speedometer": "Med",
+                "deviation": [
+                  {
+                    "avg": 10.51,
+                    "max": 27.65,
+                    "min": -22.89
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Policy",
+        "description": "This area describes the state of policy development and implementation.",
+        "scores": [
+          {
+            "euAverage": 66.09,
+            "numberOfCountries": {
+              "above": 7,
+              "around": 13,
+              "below": 7
+            },
+            "speedometer": "Med",
+            "deviation": [
+              {
+                "avg": 9.45,
+                "max": 17.45,
+                "min": -27.28
+              }
+            ]
+          }
+        ],
+        "subareas": [
+          {
+            "name": "Policies for knowledge ",
+            "description": "Definition of a policy framework for the development of cybersecurity knowledge.",
+            "scores": [
+              {
+                "euAverage": 68.69,
+                "numberOfCountries": {
+                  "above": 8,
+                  "around": 11,
+                  "below": 8
+                },
+                "speedometer": "Med",
+                "deviation": [
+                  {
+                    "avg": 14.73,
+                    "max": 31.31,
+                    "min": -36.05
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Coverage and enforcement of legal and regulatory framework",
+            "description": "Existence and coverage of national cybersecurity legislations.",
+            "scores": [
+              {
+                "euAverage": 56.05,
+                "numberOfCountries": {
+                  "above": 9,
+                  "around": 10,
+                  "below": 8
+                },
+                "speedometer": "Med",
+                "deviation": [
+                  {
+                    "avg": 13.22,
+                    "max": 24.96,
+                    "min": -23.32
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "International cooperation",
+            "description": "Alignment with international practices and policies.",
+            "scores": [
+              {
+                "euAverage": 78.23,
+                "numberOfCountries": {
+                  "above": 8,
+                  "around": 13,
+                  "below": 6
+                },
+                "speedometer": "Med",
+                "deviation": [
+                  {
+                    "avg": 12.63,
+                    "max": 17.25,
+                    "min": -59.03
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "National-level risk management",
+            "description": "Coverage of risk-management at national level.",
+            "scores": [
+              {
+                "euAverage": 61.4,
+                "numberOfCountries": {
+                  "above": 7,
+                  "around": 12,
+                  "below": 8
+                },
+                "speedometer": "Med",
+                "deviation": [
+                  {
+                    "avg": 12.18,
+                    "max": 33.6,
+                    "min": -28.37
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "euWideIndicators": [
+      {
+        "indicator": "Internet infrastructures - Sector Cybersecurity Criticality",
+        "algorithm": "Sector Criticality = Sum of assigned scores on specific criticality dimensions/ Sum of maximum scores that could be assigned per criticality dimension * 100\n\nScores are assigned by experts during workshops held with  established groups of national authorities and/or EU-level ISACs\n\nSource: ENISA NIS 360 Project",
+        "score": 80,
+        "referenceYear": "2023"
+      },
+      {
+        "indicator": "Electricity - Sector Cybersecurity Criticality",
+        "algorithm": "Sector Criticality = Sum of assigned scores on specific criticality dimensions/ Sum of maximum scores that could be assigned per criticality dimension * 100\n\nScores are assigned by experts during workshops held with  established groups of national authorities and/or EU-level ISACs\n\nSource: ENISA NIS 360 Project",
+        "score": 92.5,
+        "referenceYear": "2023"
+      },
+      {
+        "indicator": "Health - Sector Cybersecurity Criticality",
+        "algorithm": "Sector Criticality = Sum of assigned scores on specific criticality dimensions/ Sum of maximum scores that could be assigned per criticality dimension * 100\n\nScores are assigned by experts during workshops held with  established groups of national authorities and/or EU-level ISACs\n\nSource: ENISA NIS 360 Project",
+        "score": 55,
+        "referenceYear": "2023"
+      },
+      {
+        "indicator": "Telecom - Sector Cybersecurity Criticality",
+        "algorithm": "Sector Criticality = Sum of assigned scores on specific criticality dimensions/ Sum of maximum scores that could be assigned per criticality dimension * 100\n\nScores are assigned by experts during workshops held with  established groups of national authorities and/or EU-level ISACs\n\nSource: ENISA NIS 360 Project",
+        "score": 95,
+        "referenceYear": "2023"
+      },
+      {
+        "indicator": "Transport/Aviation - Sector Cybersecurity Criticality",
+        "algorithm": "Sector Criticality = Sum of assigned scores on specific criticality dimensions/ Sum of maximum scores that could be assigned per criticality dimension * 100\n\nScores are assigned by experts during workshops held with  established groups of national authorities and/or EU-level ISACs\n\nSource: ENISA NIS 360 Project",
+        "score": 75,
+        "referenceYear": "2023"
+      },
+      {
+        "indicator": "Trust services - Sector Cybersecurity Criticality",
+        "algorithm": "Sector Criticality = Sum of assigned scores on specific criticality dimensions/ Sum of maximum scores that could be assigned per criticality dimension * 100\n\nScores are assigned by experts during workshops held with  established groups of national authorities and/or EU-level ISACs\n\nSource: ENISA NIS 360 Project",
+        "score": 67.5,
+        "referenceYear": "2023"
+      },
+      {
+        "indicator": "Gas - Sector Cybersecurity Criticality",
+        "algorithm": "Sector Criticality = Sum of assigned scores on specific criticality dimensions/ Sum of maximum scores that could be assigned per criticality dimension * 100\n\nScores are assigned by experts during workshops held with  established groups of national authorities and/or EU-level ISACs\n\nSource: ENISA NIS 360 Project",
+        "score": 60,
+        "referenceYear": "2023"
+      },
+      {
+        "indicator": "Oil - Sector Cybersecurity Criticality",
+        "algorithm": "Sector Criticality = Sum of assigned scores on specific criticality dimensions/ Sum of maximum scores that could be assigned per criticality dimension * 100\n\nScores are assigned by experts during workshops held with  established groups of national authorities and/or EU-level ISACs\n\nSource: ENISA NIS 360 Project",
+        "score": 42.5,
+        "referenceYear": "2023"
+      },
+      {
+        "indicator": "Finance-  Sector Cybersecurity Criticality",
+        "algorithm": "Sector Criticality = Sum of assigned scores on specific criticality dimensions/ Sum of maximum scores that could be assigned per criticality dimension * 100\n\nScores are assigned by experts during workshops held with  established groups of national authorities and/or EU-level ISACs\n\nSource: ENISA NIS 360 Project",
+        "score": 82.5,
+        "referenceYear": "2023"
+      },
+      {
+        "indicator": "Rail - Sector Cybersecurity Criticality",
+        "algorithm": "Sector Criticality = Sum of assigned scores on specific criticality dimensions/ Sum of maximum scores that could be assigned per criticality dimension * 100\n\nScores are assigned by experts during workshops held with  established groups of national authorities and/or EU-level ISACs\n\nSource: ENISA NIS 360 Project",
+        "score": 47.5,
+        "referenceYear": "2023"
+      },
+      {
+        "indicator": "Internet infrastructures - Sector Cybersecurity Maturity",
+        "algorithm": "Sector Maturity = Sum of assigned scores on specific maturity dimensions/ Sum of maximum scores that could be assigned per maturity dimension * 100\n\nScores are assigned by experts during workshops held with  established groups of national authorities and/or EU-level ISACs\n\nSource: ENISA NIS 360 Project",
+        "score": 68,
+        "referenceYear": "2023"
+      },
+      {
+        "indicator": "Electricity - Sector Cybersecurity Maturity",
+        "algorithm": "Sector Maturity = Sum of assigned scores on specific maturity dimensions/ Sum of maximum scores that could be assigned per maturity dimension * 100\n\nScores are assigned by experts during workshops held with  established groups of national authorities and/or EU-level ISACs\n\nSource: ENISA NIS 360 Project",
+        "score": 68,
+        "referenceYear": "2023"
+      },
+      {
+        "indicator": "Health - Sector Cybersecurity Maturity",
+        "algorithm": "Sector Maturity = Sum of assigned scores on specific maturity dimensions/ Sum of maximum scores that could be assigned per maturity dimension * 100\n\nScores are assigned by experts during workshops held with  established groups of national authorities and/or EU-level ISACs\n\nSource: ENISA NIS 360 Project",
+        "score": 44,
+        "referenceYear": "2023"
+      },
+      {
+        "indicator": "Telecom - Sector Cybersecurity Maturity",
+        "algorithm": "Sector Maturity = Sum of assigned scores on specific maturity dimensions/ Sum of maximum scores that could be assigned per maturity dimension * 100\n\nScores are assigned by experts during workshops held with  established groups of national authorities and/or EU-level ISACs\n\nSource: ENISA NIS 360 Project",
+        "score": 82,
+        "referenceYear": "2023"
+      },
+      {
+        "indicator": "Transport/Aviation - Sector Cybersecurity Maturity",
+        "algorithm": "Sector Maturity = Sum of assigned scores on specific maturity dimensions/ Sum of maximum scores that could be assigned per maturity dimension * 100\n\nScores are assigned by experts during workshops held with  established groups of national authorities and/or EU-level ISACs\n\nSource: ENISA NIS 360 Project",
+        "score": 56,
+        "referenceYear": "2023"
+      },
+      {
+        "indicator": "Trust services - Sector Cybersecurity Maturity",
+        "algorithm": "Sector Maturity = Sum of assigned scores on specific maturity dimensions/ Sum of maximum scores that could be assigned per maturity dimension * 100\n\nScores are assigned by experts during workshops held with  established groups of national authorities and/or EU-level ISACs\n\nSource: ENISA NIS 360 Project",
+        "score": 66,
+        "referenceYear": "2023"
+      },
+      {
+        "indicator": "Gas - Sector Cybersecurity Maturity",
+        "algorithm": "Sector Maturity = Sum of assigned scores on specific maturity dimensions/ Sum of maximum scores that could be assigned per maturity dimension * 100\n\nScores are assigned by experts during workshops held with  established groups of national authorities and/or EU-level ISACs\n\nSource: ENISA NIS 360 Project",
+        "score": 40,
+        "referenceYear": "2023"
+      },
+      {
+        "indicator": "Oil - Sector Cybersecurity Maturity",
+        "algorithm": "Sector Maturity = Sum of assigned scores on specific maturity dimensions/ Sum of maximum scores that could be assigned per maturity dimension * 100\n\nScores are assigned by experts during workshops held with  established groups of national authorities and/or EU-level ISACs\n\nSource: ENISA NIS 360 Project",
+        "score": 26,
+        "referenceYear": "2023"
+      },
+      {
+        "indicator": "Finance - Sector Cybersecurity Maturity",
+        "algorithm": "Sector Maturity = Sum of assigned scores on specific maturity dimensions/ Sum of maximum scores that could be assigned per maturity dimension * 100\n\nScores are assigned by experts during workshops held with  established groups of national authorities and/or EU-level ISACs\n\nSource: ENISA NIS 360 Project",
+        "score": 78,
+        "referenceYear": "2023"
+      },
+      {
+        "indicator": "Rail - Sector Cybersecurity Maturity",
+        "algorithm": "Sector Maturity = Sum of assigned scores on specific maturity dimensions/ Sum of maximum scores that could be assigned per maturity dimension * 100\n\nScores are assigned by experts during workshops held with  established groups of national authorities and/or EU-level ISACs\n\nSource: ENISA NIS 360 Project",
+        "score": 42,
+        "referenceYear": "2023"
+      },
+      {
+        "indicator": "Share of surveyed suppliers of cryptographic products with EU-based design and development",
+        "algorithm": "Value = Share of surveyed suppliers of cryptographic products with EU-based design and development\n\nSource: ENISA Cloud Cybersecurity Market Analysis",
+        "score": 63.64,
+        "referenceYear": "2023"
+      },
+      {
+        "indicator": "Average knowledge gap related to cryptographic product and services between the demand side and the supply side of such product/services ",
+        "algorithm": "Value = Average knowledge gap related to cryptographic product and services between the demand side and the supply side of such product/services as assessed by surveyed suppliers (areas considered: verification/testing, implementation, design, integration, management and operation, generic knowledge of trust chain\n\nSource: ENISA Cloud Cybersecurity Market Analysis",
+        "score": 43.65,
+        "referenceYear": "2023"
+      }
+    ],
+    "domains_of_excellence": [
+      {
+        "areaName": "Market/Industry",
+        "subareaName": "SMEs: Impact of cybersecurity incidents",
+        "subareaDescription": "Extent to which SMEs have suffered from cybersecurity incidents.",
+        "indicator": "SMEs: Security Incidents - Disclosure of confidential data",
+        "algorithm": "Share of SMEs that did not experience ICT security related incidents leading to: disclosure of confidential data (e.g. due to intrusion, pharming, phishing attack, actions by own employees intentionally or unintentionally)\n\nValue = 100 - Value of variable E_SEC2ICNF (\"Enterprises experienced ICT security related incidents leading to: disclosure of confidential data (e.g. due to intrusion, pharming, phishing attack, actions by own employees intentionally or unintentionally)\")\n\nSource:  Eurostat - European Union survey on ICT usage in enterprises",
+        "source": "Eurostat",
+        "scores": [
+          {
+            "euAverage": 98.02,
+            "numberOfCountries": {
+              "above": 0,
+              "around": 27,
+              "below": 0
+            },
+            "speedometer": "Med",
+            "deviation": [
+              {
+                "avg": 0.79,
+                "max": 1.28,
+                "min": -2.42
+              }
+            ]
+          }
+        ],
+        "weight": 0.7639,
+        "w100means": "All SMEs did not experience incidents leading to disclosure of confidential data",
+        "referenceYear": "2022"
+      },
+      {
+        "areaName": "Operations",
+        "subareaName": "Operational cooperation",
+        "subareaDescription": "Definition of a framework for cooperation at the national level.",
+        "indicator": "CSIRTs international presence",
+        "algorithm": "Share of CSIRTs that participate in international activities\n\nValue = #of CSIRT Teams member of FIRST in country+#of CSIRT Teams listed-accredited-certified TI/# of CSIRTs in a country that are either CNW members, FIRST members or TI Listed/Certfied/Accredited- average share of CSIRTs that are either FIRST members or L/C/A or both\n\nSource: ENISA - CSIRTs by country",
+        "source": "ENISA - CSIRTs by country map",
+        "scores": [
+          {
+            "euAverage": 97.62,
+            "numberOfCountries": {
+              "above": 0,
+              "around": 27,
+              "below": 0
+            },
+            "speedometer": "Med",
+            "deviation": [
+              {
+                "avg": 2.87,
+                "max": 2.38,
+                "min": -7.62
+              }
+            ]
+          }
+        ],
+        "weight": 0.7273,
+        "w100means": "In all EU Member States, CSIRTs are FIRST members and TI Listed/Accredited/Certified",
+        "referenceYear": "2024"
+      },
+      {
+        "areaName": "Market/Industry",
+        "subareaName": "SMEs: Impact of cybersecurity incidents",
+        "subareaDescription": "Extent to which SMEs have suffered from cybersecurity incidents.",
+        "indicator": "SMEs: Security Incidents - Destruction or corruption of data",
+        "algorithm": "Share of SMEs that did not experience ICT security related incidents leading to: destruction or corruption of data (e.g. due to infection of malicious software or unauthorised intrusion, hardware or software failures)\n\nValue = 100 - Value of variable E_SEC2IDCD (\"Enterprises experienced at least once problems due to ICT security incident: destruction or corruption of data\")\n\nSource:  Eurostat - European Union survey on ICT usage in enterprises",
+        "source": "Eurostat",
+        "scores": [
+          {
+            "euAverage": 94.99,
+            "numberOfCountries": {
+              "above": 0,
+              "around": 27,
+              "below": 0
+            },
+            "speedometer": "Med",
+            "deviation": [
+              {
+                "avg": 1.22,
+                "max": 3.41,
+                "min": -3.79
+              }
+            ]
+          }
+        ],
+        "weight": 0.7778,
+        "w100means": "All SMEs did not experience incidents leading to destruction or corruption of data",
+        "referenceYear": "2022"
+      },
+      {
+        "areaName": "Market/Industry",
+        "subareaName": "Large enterprises: Impact of cybersecurity incidents",
+        "subareaDescription": "Extent to which large enterprises have suffered\nfrom cybersecurity incidents.",
+        "indicator": "Large enterprises: Security Incidents - Disclosure of confidential data",
+        "algorithm": "Share of Large enterprises that did not experience ICT security related incidents leading to: disclosure of confidential data (e.g. due to intrusion, pharming, phishing attack, actions by own employees intentionally or unintentionally)\n\nValue = 100 - Value of variable E_SEC2ICNF (\"Enterprises experienced ICT security related incidents leading to: disclosure of confidential data (e.g. due to intrusion, pharming, phishing attack, actions by own employees intentionally or unintentionally)\")\n\nSource:  Eurostat - European Union survey on ICT usage in enterprises",
+        "source": "Eurostat",
+        "scores": [
+          {
+            "euAverage": 93.83,
+            "numberOfCountries": {
+              "above": 0,
+              "around": 26,
+              "below": 1
+            },
+            "speedometer": "Med",
+            "deviation": [
+              {
+                "avg": 2.81,
+                "max": 5.17,
+                "min": -10.93
+              }
+            ]
+          }
+        ],
+        "weight": 0.7639,
+        "w100means": "All large enterprises did not experience incidents leading to disclosure of confidential data",
+        "referenceYear": "2022"
+      },
+      {
+        "areaName": "Capacity",
+        "subareaName": "Cyber hygiene",
+        "subareaDescription": "Implementation of measures for cyber hygiene.",
+        "indicator": "Citizens: secure internet use",
+        "algorithm": "Share of Internet users who changed the way they use the internet due to security concerns\n\nValue = Value for QC5 (Total - None/ You are not concerned about online security (SPONTANEOUS) - Don't know)\n\nSource: Eurobarometer - Special Eurobarometer 499 : Europeans' attitudes towards cyber security (cybercrime)",
+        "source": "Eurobarometer",
+        "scores": [
+          {
+            "euAverage": 93.29,
+            "numberOfCountries": {
+              "above": 0,
+              "around": 27,
+              "below": 0
+            },
+            "speedometer": "Med",
+            "deviation": [
+              {
+                "avg": 2.69,
+                "max": 5.69,
+                "min": -7.36
+              }
+            ]
+          }
+        ],
+        "weight": 0.7292,
+        "w100means": "All internet users have changed the way they use the internet due to security concerns",
+        "referenceYear": "2019"
+      }
+    ],
+    "domains_of_improvement": [
+      {
+        "areaName": "Market/Industry",
+        "subareaName": "Cybersecurity investments and innovation",
+        "subareaDescription": "Extent to which enterprises invest into their current and future security.",
+        "indicator": "Enterprises using AI technologies for ICT security",
+        "algorithm": "Share of enterprises that use AI technologies for ICT security\n\nValue = Value of variable E_AI_PITS\n\nSource: Eurostat - European Union survey on ICT usage in enterprises",
+        "source": "Eurostat",
+        "scores": [
+          {
+            "euAverage": 3.18,
+            "numberOfCountries": {
+              "above": 0,
+              "around": 27,
+              "below": 0
+            },
+            "speedometer": "Med",
+            "deviation": [
+              {
+                "avg": 1.67,
+                "max": 7.22,
+                "min": -2.78
+              }
+            ]
+          }
+        ],
+        "weight": 0.1736,
+        "w100means": "75% (digital decade target) of enterprises  use AI technologies for ICT security",
+        "referenceYear": "2023"
+      },
+      {
+        "areaName": "Market/Industry",
+        "subareaName": "Cybersecurity investments and innovation",
+        "subareaDescription": "Extent to which enterprises invest into their current and future security.",
+        "indicator": "Cybersecurity investments by essential/important entities",
+        "algorithm": "Average share of information security budget spending by surveyed essential/important entities as part of their overall IT budget/spending\n\nSource: ENISA NIS Investments Report",
+        "source": "ENISA-NIS Investments Report",
+        "scores": [
+          {
+            "euAverage": 7.14,
+            "numberOfCountries": {
+              "above": 0,
+              "around": 27,
+              "below": 0
+            },
+            "speedometer": "Med",
+            "deviation": [
+              {
+                "avg": 0.54,
+                "max": 1.46,
+                "min": -1.24
+              }
+            ]
+          }
+        ],
+        "weight": 0.7417,
+        "w100means": "The whole IT budget of surveyed essential/important entities is devoted to  information security",
+        "referenceYear": "2023"
+      },
+      {
+        "areaName": "Operations",
+        "subareaName": "National-level response preparedness",
+        "subareaDescription": "Extent to which a country is prepared to deal with cyber-related issues.",
+        "indicator": "CSIRT(s) certification",
+        "algorithm": "Share of trusted introducer certified CSIRTs\n\nValue=  # of Certified CSIRTs/CSIRTs Under Re-Certification  in a country/# of CSIRTs in a country that are either CNW members, FIRST members or TI Listed/Certfied/Accredited\n\nSource: ENISA - CSIRTs by country\n\n",
+        "source": "ENISA - CSIRTs by country map",
+        "scores": [
+          {
+            "euAverage": 10.31,
+            "numberOfCountries": {
+              "above": 5,
+              "around": 11,
+              "below": 11
+            },
+            "speedometer": "Med",
+            "deviation": [
+              {
+                "avg": 10.58,
+                "max": 27.19,
+                "min": -10.31
+              }
+            ]
+          }
+        ],
+        "weight": 0.8712,
+        "w100means": "In all EU Member States, CSIRTs  are TI certified",
+        "referenceYear": "2024"
+      },
+      {
+        "areaName": "Capacity",
+        "subareaName": "Cybersecurity skills and education",
+        "subareaDescription": "Availability of measures to increase specialised cybersecurity skills and knowledge.",
+        "indicator": "EU R&D funding",
+        "algorithm": "Share of EU R&D funding awarded per country = EU Contribution for Horizon Europe calls related to cybersecurity in year n/EU contribution for HORIZON EUROPE under cluster 3- Civil Security for Society calls per country\n\nSource: Horizon Dashboard",
+        "source": "EC - Horizon Dashboard",
+        "scores": [
+          {
+            "euAverage": 24.93,
+            "numberOfCountries": {
+              "above": 8,
+              "around": 12,
+              "below": 7
+            },
+            "speedometer": "Med",
+            "deviation": [
+              {
+                "avg": 13.19,
+                "max": 30.9,
+                "min": -24.93
+              }
+            ]
+          }
+        ],
+        "weight": 0.5486,
+        "w100means": "In all EU MS, Cybersecurity topics have recieved all the country's EU R&D funding for  the Horizon Europe security cluster ",
+        "referenceYear": "2024"
+      },
+      {
+        "areaName": "Market/Industry",
+        "subareaName": "Cybersecurity governance within organisations",
+        "subareaDescription": "Extent to which enterprises implement policy and measures to prevent cyber incidents.",
+        "indicator": "Enterprises: risk assessment",
+        "algorithm": "Share of  enterprises performing a cybersecurity risk assessment\n\nValue = Value of variable E_SECMRASS\n\nSource: Eurostat - European Union survey on ICT usage in enterprises\n",
+        "source": "Eurostat",
+        "scores": [
+          {
+            "euAverage": 32.01,
+            "numberOfCountries": {
+              "above": 6,
+              "around": 16,
+              "below": 5
+            },
+            "speedometer": "Med",
+            "deviation": [
+              {
+                "avg": 9.76,
+                "max": 26.89,
+                "min": -21.31
+              }
+            ]
+          }
+        ],
+        "weight": 0.75,
+        "w100means": "All enterprises perform a cybersecurity risk assessment",
+        "referenceYear": "2022"
+      }
+    ],
+    "allIndicators": [
+      {
+        "areas": [
+          {
+            "name": "Capacity",
+            "description": "This area describes the ability of society to recognise threats and prevent incidents.",
+            "subareas": [
+              {
+                "name": "Cyber hygiene",
+                "description": "Implementation of measures for cyber hygiene.",
+                "indicators": [
+                  {
+                    "indicator": "Large enterprises: ICT security measures",
+                    "algorithm": "Share of large enterprises using at least one of the following ICT security measures: \n* Strong password authentication (E_SECMSPSW)\n* Combination of at least two authentication mechanisms (e.g. user-defined password, one-time password (OTP), code generated via a security token or received via a smartphone, biometric methods) (E_SECMDUO)\n* Encryption techniques for data, documents or e-mails (E_SECMDENC)\n* Data backup to a separate location (including backup to the cloud) (E_SECMOSBU)\n* Network access control (management of access by devices and users to the enterprise's network) (E_SECMNAC)\n* VPN (Virtual Private Network extends a private network across a public network to enable secure exchange of data over public network) (E_SECMVPN)\n* Maintainance of log files for analysis after security incidents (E_SECMLOG)\n* Performance of ICT security tests (E_SECMTST)\n\nValue = Weighted value of 8 variables (E_SECMSPSW; E_SECMDUO; E_SECMDENC; E_SECMOSBU; E_SECMNAC; E_SECMVPN; E_SECMLOG; E_SECMTST)\nWeight = 1/8 per variable\n\nSource: Eurostat - European Union survey on ICT usage in enterprises",
+                    "source": "Eurostat",
+                    "scores": [
+                      {
+                        "euAverage": 82.88,
+                        "numberOfCountries": {
+                          "above": 2,
+                          "around": 23,
+                          "below": 2
+                        },
+                        "speedometer": "Med",
+                        "deviation": [
+                          {
+                            "avg": 4.97,
+                            "max": 11.13,
+                            "min": -18.62
+                          }
+                        ]
+                      }
+                    ],
+                    "referenceYear": "2022",
+                    "disclaimers": [0, 0, 3, 0],
+                    "weight": 0.7803,
+                    "w100means": "All large enterprises implement relevant ICT security measures"
+                  },
+                  {
+                    "indicator": "Citizens: privacy and protection of personal data",
+                    "algorithm": "Share of individuals that managed access to personal data on the internet by performing at least one of the following actions: \n\n* read privacy policy statements before providing personal data\n* restricted or refused access to the geographical location\n* limited access to profile or content on social networking sites or shared online storage\n* refused allowing the use of personal data for advertising purposes\n* checked that the website where personal data provided was secure\n\nValue =  Value of variable I_MAPS_5 (% of individuals that manage access to personal data on the internet (3 months) by performing at least one of the following actions: I_MAPS_RPS, I_MAPS_RRGL, I_MAPS_LAP, I_MAPS_RAAD, I_MAPS_CWSC)\n",
+                    "source": "Eurostat",
+                    "scores": [
+                      {
+                        "euAverage": 67.97,
+                        "numberOfCountries": {
+                          "above": 6,
+                          "around": 15,
+                          "below": 6
+                        },
+                        "speedometer": "Med",
+                        "deviation": [
+                          {
+                            "avg": 9.86,
+                            "max": 23.88,
+                            "min": -21.69
+                          }
+                        ]
+                      }
+                    ],
+                    "referenceYear": "2023",
+                    "disclaimers": [0, 0, 3, 0],
+                    "weight": 0.7197,
+                    "w100means": "All individuals take at least one appropriate privacy-preserving measures when using internet "
+                  },
+                  {
+                    "indicator": "Citizens: secure internet use",
+                    "algorithm": "Share of Internet users who changed the way they use the internet due to security concerns\n\nValue = Value for QC5 (Total - None/ You are not concerned about online security (SPONTANEOUS) - Don't know)\n\nSource: Eurobarometer - Special Eurobarometer 499 : Europeans' attitudes towards cyber security (cybercrime)",
+                    "source": "Eurobarometer",
+                    "scores": [
+                      {
+                        "euAverage": 93.29,
+                        "numberOfCountries": {
+                          "above": 0,
+                          "around": 27,
+                          "below": 0
+                        },
+                        "speedometer": "Med",
+                        "deviation": [
+                          {
+                            "avg": 2.69,
+                            "max": 5.69,
+                            "min": -7.36
+                          }
+                        ]
+                      }
+                    ],
+                    "referenceYear": "2019",
+                    "disclaimers": [0, 0, 3, 0],
+                    "weight": 0.7292,
+                    "w100means": "All internet users have changed the way they use the internet due to security concerns"
+                  },
+                  {
+                    "indicator": "SMEs: ICT security measures",
+                    "algorithm": "Share of SMEs using at least one of the following ICT security measures: \n* \tStrong password authentication (E_SECMSPSW)\n* \tCombination of at least two authentication mechanisms (e.g. user-defined password, one-time password (OTP), code generated via a security token or received via a smartphone, biometric methods) (E_SECMDUO)\n* \tEncryption techniques for data, documents or e-mails (E_SECMDENC)\n* \tData backup to a separate location (including backup to the cloud) (E_SECMOSBU)\n* \tNetwork access control (management of access by devices and users to the enterprise's network) (E_SECMNAC)\n* \tVPN (Virtual Private Network extends a private network across a public network to enable secure exchange of data over public network) (E_SECMVPN)\n* \tMaintainance of log files for analysis after security incidents (E_SECMLOG)\n* \tPerformance of ICT security tests (E_SECMTST)\n\n\nValue = Weighted value of 8 variables: E_SECMSPSW; E_SECMDUO; E_SECMDENC; E_SECMOSBU; E_SECMNAC; E_SECMVPN; E_SECMLOG; E_SECMTST\nWeight = 1/8 per variable\n\nSource: Eurostat - European Union survey on ICT usage in enterprises",
+                    "source": "Eurostat",
+                    "scores": [
+                      {
+                        "euAverage": 49.26,
+                        "numberOfCountries": {
+                          "above": 5,
+                          "around": 15,
+                          "below": 7
+                        },
+                        "speedometer": "Med",
+                        "deviation": [
+                          {
+                            "avg": 8.41,
+                            "max": 18.28,
+                            "min": -14.07
+                          }
+                        ]
+                      }
+                    ],
+                    "referenceYear": "2022",
+                    "disclaimers": [0, 0, 3, 0],
+                    "weight": 0.7803,
+                    "w100means": "All SMEs implement relevant ICT security measures"
+                  }
+                ]
+              },
+              {
+                "name": "Cybersecurity awareness",
+                "description": "Knowledge and understanding of cybersecurity and efforts to increase cybersecuirty awareness.",
+                "indicators": [
+                  {
+                    "indicator": "Large enterprises: Staff Awareness",
+                    "algorithm": "Share of large enterprises that make persons employed aware of their obligations in ICT security related issues  \n\nValue = Value of variable E_SECAWANY\n\nSource: Eurostat - European Union survey on ICT usage in enterprises",
+                    "source": "Eurostat",
+                    "scores": [
+                      {
+                        "euAverage": 89.84,
+                        "numberOfCountries": {
+                          "above": 0,
+                          "around": 25,
+                          "below": 2
+                        },
+                        "speedometer": "Med",
+                        "deviation": [
+                          {
+                            "avg": 4.93,
+                            "max": 8.06,
+                            "min": -20.24
+                          }
+                        ]
+                      }
+                    ],
+                    "referenceYear": "2022",
+                    "disclaimers": [0, 0, 3, 0],
+                    "weight": 0.6111,
+                    "w100means": "All large enterprises implement relevant ICT security measures"
+                  },
+                  {
+                    "indicator": "Citizens: Knowledge of cybersecurity matters",
+                    "algorithm": "Share of internet users who  feel very-well/well informed about the risks of cybercrime AND/OR are aware of the existence of a website, email address, online form, or contact number in their country where they can report a cybercrime or any other illegal online behaviour (e.g. cyberattack, online harassment or bullying)\n\nValue = Weighted value of 2 variables:\n* \t% of internet users who feel very-well/well informed about the risks of cybercrime (question QC7 - Total 'Well informed')\n* \t% of internet users who are aware of the existence of a website, email address, online form, or contact number in their country where they can report a cybercrime or any other illegal online behaviour (e.g. cyberattack, online harassment or bullying)? (question QC13 - Total 'Yes, you are aware of their existence')\n\nWeight: 1/2 for each variable\n\nSource: Eurobarometer - Special Eurobarometer 499 : Europeans' attitudes towards cyber security (cybercrime)",
+                    "source": "Eurobarometer",
+                    "scores": [
+                      {
+                        "euAverage": 37.76,
+                        "numberOfCountries": {
+                          "above": 3,
+                          "around": 21,
+                          "below": 3
+                        },
+                        "speedometer": "Med",
+                        "deviation": [
+                          {
+                            "avg": 6.27,
+                            "max": 14.24,
+                            "min": -14.76
+                          }
+                        ]
+                      }
+                    ],
+                    "referenceYear": "2019",
+                    "disclaimers": [0, 0, 3, 0],
+                    "weight": 0.5764,
+                    "w100means": "All internet users  feel very-well/well informed about the risks of cybercrime AND/OR are aware of the existence of a means to report illegal online behaviour\n"
+                  },
+                  {
+                    "indicator": "SMEs: Cybersecurity training",
+                    "algorithm": "Share of SMEs:\n* \tthat provided their employees with training or awareness raising about the risks of cybercrime in the last 12 months and/or\n* \twhose management feels that they are very well/well informed about the risks of cybercrime  and/or\n* \twhose employees feel that they are very well/well informed about the risks of cybercrime\n\nValue = Weighted values of multiple Eurobarometer variables:\n* \t% of SMEs that provided their employees with training or awareness raising about the risks of cybercrime in the last 12 months (Q5 from fl_496_volume_A - 'Yes')\n* \t% of SMEs whose management feels that they are very well/well informed about the risks of cybercrime (Q3 from fl_496_volume_A - Total 'Well informed')\n* \t% of SMEs whose employees feel that they are very well/well informed about the risks of cybercrime(Q4 from fl_496_volume_A - Total 'Well informed')\n\nSource: Eurobarometer - FL496 : SMEs and Cybercrime\nWeight = 1/3 per variable",
+                    "source": "Eurobarometer",
+                    "scores": [
+                      {
+                        "euAverage": 50.33,
+                        "numberOfCountries": {
+                          "above": 3,
+                          "around": 23,
+                          "below": 1
+                        },
+                        "speedometer": "Med",
+                        "deviation": [
+                          {
+                            "avg": 5.25,
+                            "max": 12.3,
+                            "min": -12.3
+                          }
+                        ]
+                      }
+                    ],
+                    "referenceYear": "2021",
+                    "disclaimers": [0, 0, 3, 0],
+                    "weight": 0.5903,
+                    "w100means": "The management and employees of all SMEs feel that  they are very well/well informed about the risks of cybercrime "
+                  },
+                  {
+                    "indicator": "SMEs: Staff Awareness",
+                    "algorithm": "Share of SMEs that make persons employed aware of their obligations in ICT security related issues  \n\nValue = Value of variable E_SECAWANY \n\nSource: Eurostat - European Union survey on ICT usage in enterprises\n",
+                    "source": "Eurostat",
+                    "scores": [
+                      {
+                        "euAverage": 55.67,
+                        "numberOfCountries": {
+                          "above": 5,
+                          "around": 18,
+                          "below": 4
+                        },
+                        "speedometer": "Med",
+                        "deviation": [
+                          {
+                            "avg": 9.19,
+                            "max": 19.23,
+                            "min": -24.97
+                          }
+                        ]
+                      }
+                    ],
+                    "referenceYear": "2022",
+                    "disclaimers": [0, 0, 3, 0],
+                    "weight": 0.6111,
+                    "w100means": "All SMEs make their employee aware of their obligations related to ICT security"
+                  }
+                ]
+              },
+              {
+                "name": "Cybersecurity skills and education",
+                "description": "Availability of measures to increase specialised cybersecurity skills and knowledge.",
+                "indicators": [
+                  {
+                    "indicator": "National level cybersecurity trainings",
+                    "algorithm": "Score (%) = SUM ( Score for Qx* ) / Maximum total score \n\n*Scoring based on adapted NCAF maturity levels, objective 7 \"Strenghten training and educational programmes\"",
+                    "source": "MS",
+                    "scores": [
+                      {
+                        "euAverage": 70.37,
+                        "numberOfCountries": {
+                          "above": 10,
+                          "around": 8,
+                          "below": 9
+                        },
+                        "speedometer": "High",
+                        "deviation": [
+                          {
+                            "avg": 20.92,
+                            "max": 29.63,
+                            "min": -57.87
+                          }
+                        ]
+                      }
+                    ],
+                    "referenceYear": "2024",
+                    "disclaimers": [0, 0, 3, 0],
+                    "weight": 0.5957,
+                    "w100means": "All EU Member States have implemented measures that show a high level of maturity in trainings "
+                  },
+                  {
+                    "indicator": "Tools and training to fight cybercrime",
+                    "algorithm": "Score (%) = SUM ( Score for Qx* ) / Maximum total score \n\n*Scoring based on adapted NCAF maturity levels, objective 12 \"Address cybercrime\"",
+                    "source": "MS",
+                    "scores": [
+                      {
+                        "euAverage": 78.8,
+                        "numberOfCountries": {
+                          "above": 9,
+                          "around": 12,
+                          "below": 6
+                        },
+                        "speedometer": "Med",
+                        "deviation": [
+                          {
+                            "avg": 18.28,
+                            "max": 21.2,
+                            "min": -71.3
+                          }
+                        ]
+                      }
+                    ],
+                    "referenceYear": "2024",
+                    "disclaimers": [0, 0, 3, 0],
+                    "weight": 0.6019,
+                    "w100means": "All EU Member States have implemented tools, procedures and trainings against cybercrime that show a high level of maturity "
+                  },
+                  {
+                    "indicator": "Cybersecurity exercises at national and international level",
+                    "algorithm": "Score (%) = SUM ( Score for Qx* ) / Maximum total score\n\n*Scoring based on adapted NCAF maturity levels, objective 6 \"Organise cybersecurity exercises\"",
+                    "source": "MS",
+                    "scores": [
+                      {
+                        "euAverage": 75.74,
+                        "numberOfCountries": {
+                          "above": 10,
+                          "around": 8,
+                          "below": 9
+                        },
+                        "speedometer": "High",
+                        "deviation": [
+                          {
+                            "avg": 18.09,
+                            "max": 24.26,
+                            "min": -48.24
+                          }
+                        ]
+                      }
+                    ],
+                    "referenceYear": "2024",
+                    "disclaimers": [0, 0, 3, 0],
+                    "weight": 0.9321,
+                    "w100means": "All EU Member States have an  exercise program, also including participation at the international level, with a high level of maturirty"
+                  },
+                  {
+                    "indicator": "EU R&D funding",
+                    "algorithm": "Share of EU R&D funding awarded per country = EU Contribution for Horizon Europe calls related to cybersecurity in year n/EU contribution for HORIZON EUROPE under cluster 3- Civil Security for Society calls per country\n\nSource: Horizon Dashboard",
+                    "source": "EC - Horizon Dashboard",
+                    "scores": [
+                      {
+                        "euAverage": 24.93,
+                        "numberOfCountries": {
+                          "above": 8,
+                          "around": 12,
+                          "below": 7
+                        },
+                        "speedometer": "Med",
+                        "deviation": [
+                          {
+                            "avg": 13.19,
+                            "max": 30.9,
+                            "min": -24.93
+                          }
+                        ]
+                      }
+                    ],
+                    "referenceYear": "2024",
+                    "disclaimers": [0, 0, 3, 0],
+                    "weight": 0.5486,
+                    "w100means": "In all EU MS, Cybersecurity topics have recieved all the country's EU R&D funding for  the Horizon Europe security cluster "
+                  },
+                  {
+                    "indicator": "Cybersecurity graduates in higher education",
+                    "algorithm": "Cybersecurity graduates in higher education\n\nValue = Count of cybersecurity graduates in higher education curricula / Population in a country %\n\nSource: ENISA Project - Cyberhead",
+                    "source": "ENISA - CyberHead",
+                    "scores": [
+                      {
+                        "euAverage": 45.65,
+                        "numberOfCountries": {
+                          "above": 8,
+                          "around": 4,
+                          "below": 15
+                        },
+                        "speedometer": "Low",
+                        "deviation": [
+                          {
+                            "avg": 25.7,
+                            "max": 54.35,
+                            "min": -39.48
+                          }
+                        ]
+                      }
+                    ],
+                    "referenceYear": "2023",
+                    "disclaimers": [1, 0, 0, 0],
+                    "weight": 0.5347,
+                    "w100means": "The EU average reflects how EU compares to the country with the highest number of cybersecurity graduates per population in the EU."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Market/Industry",
+            "description": "This area describes the ability of the private sector to prevent, detect, and analyse cyber threats and incidents.",
+            "subareas": [
+              {
+                "name": "Cybersecurity governance within organisations",
+                "description": "Extent to which enterprises implement policy and measures to prevent cyber incidents.",
+                "indicators": [
+                  {
+                    "indicator": "Enterprises: risk assessment",
+                    "algorithm": "Share of  enterprises performing a cybersecurity risk assessment\n\nValue = Value of variable E_SECMRASS\n\nSource: Eurostat - European Union survey on ICT usage in enterprises\n",
+                    "source": "Eurostat",
+                    "scores": [
+                      {
+                        "euAverage": 32.01,
+                        "numberOfCountries": {
+                          "above": 6,
+                          "around": 16,
+                          "below": 5
+                        },
+                        "speedometer": "Med",
+                        "deviation": [
+                          {
+                            "avg": 9.76,
+                            "max": 26.89,
+                            "min": -21.31
+                          }
+                        ]
+                      }
+                    ],
+                    "referenceYear": "2022",
+                    "disclaimers": [0, 0, 3, 0],
+                    "weight": 0.75,
+                    "w100means": "All enterprises perform a cybersecurity risk assessment"
+                  },
+                  {
+                    "indicator": "Enterprises: ICT security policy",
+                    "algorithm": "Share of  enterprises that have document(s) on measures, practices or procedures on ICT security\n\nValue = Value of variable E_SECPOL2\n\nSource: Eurostat - European Union survey on ICT usage in enterprises",
+                    "source": "Eurostat",
+                    "scores": [
+                      {
+                        "euAverage": 38.71,
+                        "numberOfCountries": {
+                          "above": 6,
+                          "around": 15,
+                          "below": 6
+                        },
+                        "speedometer": "Med",
+                        "deviation": [
+                          {
+                            "avg": 10.28,
+                            "max": 27.09,
+                            "min": -20.21
+                          }
+                        ]
+                      }
+                    ],
+                    "referenceYear": "2022",
+                    "disclaimers": [0, 0, 3, 0],
+                    "weight": 0.7424,
+                    "w100means": "All  enterprises  have documents on measures, practices or procedures on ICT security"
+                  },
+                  {
+                    "indicator": "Organisations certified with relevant ISO standards",
+                    "algorithm": "Share of organisations certified with at least one of the following standards: ISO 22301:2019 (Business continuity management systems);  ISO 27001:2013 (Information security management systems); ISO 28000:2007/ISO 28000:2022 (Security management systems) \n\nValue  = average %of organisations with any of the three ISO certificates = ( (metric 1 + metric 2 + metric 3)/3 ) %\n\nmetric 1 = Number of sites per country certified for ISO 22301:2019 / number of enterprises per country\nmetric 2 = Number of sites per country certified for ISO 27001:2013 / number of enterprises per country\nmetric 3 = Number of sites per country certified for ISO 28000:2007 / number of enterprises per country \n\nSource: ISO",
+                    "source": "ISO",
+                    "scores": [
+                      {
+                        "euAverage": 55.91,
+                        "numberOfCountries": {
+                          "above": 9,
+                          "around": 6,
+                          "below": 12
+                        },
+                        "speedometer": "Low",
+                        "deviation": [
+                          {
+                            "avg": 23.66,
+                            "max": 44.09,
+                            "min": -47.35
+                          }
+                        ]
+                      }
+                    ],
+                    "referenceYear": "2022",
+                    "disclaimers": [1, 0, 0, 0],
+                    "weight": 0.6736,
+                    "w100means": "The average reflects how the EU compares to the EU country with the the highest % of organisations certified with at least one relevant ISO standards."
+                  },
+                  {
+                    "indicator": "Supply chain management by essential/ important entities",
+                    "algorithm": "Average share of surveyed essential/important entities with third -party risk management policies\n\nSource: ENISA NIS Investments Report",
+                    "source": "ENISA-NIS Investments Report",
+                    "scores": [
+                      {
+                        "euAverage": 77.59,
+                        "numberOfCountries": {
+                          "above": 7,
+                          "around": 14,
+                          "below": 6
+                        },
+                        "speedometer": "Med",
+                        "deviation": [
+                          {
+                            "avg": 8.56,
+                            "max": 15.41,
+                            "min": -19.59
+                          }
+                        ]
+                      }
+                    ],
+                    "referenceYear": "2023",
+                    "disclaimers": [0, 0, 3, 0],
+                    "weight": 0.9394,
+                    "w100means": "All surveyed essential/important entities have third -party risk management policies\n\nSource: ENISA NIS Investments Report"
+                  }
+                ]
+              },
+              {
+                "name": "Cybersecurity investments and innovation",
+                "description": "Extent to which enterprises invest into their current and future security.",
+                "indicators": [
+                  {
+                    "indicator": "Cybersecurity investments by essential/important entities",
+                    "algorithm": "Average share of information security budget spending by surveyed essential/important entities as part of their overall IT budget/spending\n\nSource: ENISA NIS Investments Report",
+                    "source": "ENISA-NIS Investments Report",
+                    "scores": [
+                      {
+                        "euAverage": 7.14,
+                        "numberOfCountries": {
+                          "above": 0,
+                          "around": 27,
+                          "below": 0
+                        },
+                        "speedometer": "Med",
+                        "deviation": [
+                          {
+                            "avg": 0.54,
+                            "max": 1.46,
+                            "min": -1.24
+                          }
+                        ]
+                      }
+                    ],
+                    "referenceYear": "2023",
+                    "disclaimers": [0, 0, 3, 0],
+                    "weight": 0.7417,
+                    "w100means": "The whole IT budget of surveyed essential/important entities is devoted to  information security"
+                  },
+                  {
+                    "indicator": "Enterprises buying security software applications as a cloud computing service",
+                    "algorithm": "Share of enterprises that buy security software applications (as a CC service)\n\nValue = Value of variable E_CC_PSEC\n\nSource: Eurostat - European Union survey on ICT usage in enterprises",
+                    "source": "Eurostat",
+                    "scores": [
+                      {
+                        "euAverage": 39.13,
+                        "numberOfCountries": {
+                          "above": 9,
+                          "around": 11,
+                          "below": 7
+                        },
+                        "speedometer": "Med",
+                        "deviation": [
+                          {
+                            "avg": 13.98,
+                            "max": 34.6,
+                            "min": -26.86
+                          }
+                        ]
+                      }
+                    ],
+                    "referenceYear": "2023",
+                    "disclaimers": [0, 0, 0, 4],
+                    "weight": 0.3403,
+                    "w100means": "75% (digital decade target) of enterprises buy security software applications (as a CC service)\n"
+                  },
+                  {
+                    "indicator": "Enterprises using AI technologies for ICT security",
+                    "algorithm": "Share of enterprises that use AI technologies for ICT security\n\nValue = Value of variable E_AI_PITS\n\nSource: Eurostat - European Union survey on ICT usage in enterprises",
+                    "source": "Eurostat",
+                    "scores": [
+                      {
+                        "euAverage": 3.18,
+                        "numberOfCountries": {
+                          "above": 0,
+                          "around": 27,
+                          "below": 0
+                        },
+                        "speedometer": "Med",
+                        "deviation": [
+                          {
+                            "avg": 1.67,
+                            "max": 7.22,
+                            "min": -2.78
+                          }
+                        ]
+                      }
+                    ],
+                    "referenceYear": "2023",
+                    "disclaimers": [0, 0, 0, 4],
+                    "weight": 0.1736,
+                    "w100means": "75% (digital decade target) of enterprises  use AI technologies for ICT security"
+                  },
+                  {
+                    "indicator": "SMEs: EU R&D funding",
+                    "algorithm": "Share of EU R&D funding awarded to private SME for cybersecurity = EU Contribution to private SMEs for Horizon Europe calls related to cybersecurity in year n/EU contribution to private SMEs for HORIZON EUROPE under cluster 3- Civil Security for Society calls per country\n\nSource: Horizon Dashboard",
+                    "source": "EC - Horizon Dashboard",
+                    "scores": [
+                      {
+                        "euAverage": 35.16,
+                        "numberOfCountries": {
+                          "above": 10,
+                          "around": 8,
+                          "below": 9
+                        },
+                        "speedometer": "High",
+                        "deviation": [
+                          {
+                            "avg": 20.43,
+                            "max": 64.84,
+                            "min": -35.16
+                          }
+                        ]
+                      }
+                    ],
+                    "referenceYear": "2024",
+                    "disclaimers": [0, 0, 3, 0],
+                    "weight": 0.5208,
+                    "w100means": "In all EU MS, SMEs  have recieved all the country's EU R&D funding for cybersecurity topics within  the Horizon Europe security cluster"
+                  }
+                ]
+              },
+              {
+                "name": "Large enterprises: Impact of cybersecurity incidents",
+                "description": "Extent to which large enterprises have suffered\nfrom cybersecurity incidents.",
+                "indicators": [
+                  {
+                    "indicator": "Large enterprises: Security Incidents - Destruction or corruption of data",
+                    "algorithm": "Share of Large enterprises that did not experience ICT security related incidents leading to: destruction or corruption of data (e.g. due to infection of malicious software or unauthorised intrusion, hardware or software failures)\n\nValue = 100 - Value of variable E_SEC2IDCD (\"Enterprises experienced at least once problems due to ICT security incident: destruction or corruption of data\")\n\nSource:  Eurostat - European Union survey on ICT usage in enterprises",
+                    "source": "Eurostat",
+                    "scores": [
+                      {
+                        "euAverage": 92,
+                        "numberOfCountries": {
+                          "above": 0,
+                          "around": 27,
+                          "below": 0
+                        },
+                        "speedometer": "Med",
+                        "deviation": [
+                          {
+                            "avg": 2.81,
+                            "max": 6.3,
+                            "min": -5.9
+                          }
+                        ]
+                      }
+                    ],
+                    "referenceYear": "2022",
+                    "disclaimers": [0, 0, 3, 0],
+                    "weight": 0.7639,
+                    "w100means": "All large enterprises did not experience incidents leading to destruction or corruption of data"
+                  },
+                  {
+                    "indicator": "Large enterprises: Security Incidents - Disclosure of confidential data",
+                    "algorithm": "Share of Large enterprises that did not experience ICT security related incidents leading to: disclosure of confidential data (e.g. due to intrusion, pharming, phishing attack, actions by own employees intentionally or unintentionally)\n\nValue = 100 - Value of variable E_SEC2ICNF (\"Enterprises experienced ICT security related incidents leading to: disclosure of confidential data (e.g. due to intrusion, pharming, phishing attack, actions by own employees intentionally or unintentionally)\")\n\nSource:  Eurostat - European Union survey on ICT usage in enterprises",
+                    "source": "Eurostat",
+                    "scores": [
+                      {
+                        "euAverage": 93.83,
+                        "numberOfCountries": {
+                          "above": 0,
+                          "around": 26,
+                          "below": 1
+                        },
+                        "speedometer": "Med",
+                        "deviation": [
+                          {
+                            "avg": 2.81,
+                            "max": 5.17,
+                            "min": -10.93
+                          }
+                        ]
+                      }
+                    ],
+                    "referenceYear": "2022",
+                    "disclaimers": [0, 0, 3, 0],
+                    "weight": 0.7639,
+                    "w100means": "All large enterprises did not experience incidents leading to disclosure of confidential data"
+                  },
+                  {
+                    "indicator": "Large enterprises: Security Incidents - Unavailability of ICT Services",
+                    "algorithm": "Share of Large enterprises that did not experience ICT security related incidents leading to: unavailability of ICT services (e.g. Denial of Service attacks, ransomware attacks, hardware or software failures)\n\nValue = 100 - Value of variable E_SECI2USV <U+201C>Enterprises (SMEs) experienced at least once problems due to ICT security incident: unavailability of ICT services<U+201D>\n\nSource:  Eurostat - European Union survey on ICT usage in enterprises",
+                    "source": "Eurostat",
+                    "scores": [
+                      {
+                        "euAverage": 65.96,
+                        "numberOfCountries": {
+                          "above": 6,
+                          "around": 16,
+                          "below": 5
+                        },
+                        "speedometer": "Med",
+                        "deviation": [
+                          {
+                            "avg": 9.79,
+                            "max": 17.14,
+                            "min": -25.96
+                          }
+                        ]
+                      }
+                    ],
+                    "referenceYear": "2022",
+                    "disclaimers": [0, 0, 3, 0],
+                    "weight": 0.7639,
+                    "w100means": "All large enterprises did not experience incidents leading to unavailability of ICT services"
+                  }
+                ]
+              },
+              {
+                "name": "SMEs: Impact of cybersecurity incidents",
+                "description": "Extent to which SMEs have suffered from cybersecurity incidents.",
+                "indicators": [
+                  {
+                    "indicator": "SMEs: Security Incidents - Destruction or corruption of data",
+                    "algorithm": "Share of SMEs that did not experience ICT security related incidents leading to: destruction or corruption of data (e.g. due to infection of malicious software or unauthorised intrusion, hardware or software failures)\n\nValue = 100 - Value of variable E_SEC2IDCD (\"Enterprises experienced at least once problems due to ICT security incident: destruction or corruption of data\")\n\nSource:  Eurostat - European Union survey on ICT usage in enterprises",
+                    "source": "Eurostat",
+                    "scores": [
+                      {
+                        "euAverage": 94.99,
+                        "numberOfCountries": {
+                          "above": 0,
+                          "around": 27,
+                          "below": 0
+                        },
+                        "speedometer": "Med",
+                        "deviation": [
+                          {
+                            "avg": 1.22,
+                            "max": 3.41,
+                            "min": -3.79
+                          }
+                        ]
+                      }
+                    ],
+                    "referenceYear": "2022",
+                    "disclaimers": [0, 0, 3, 0],
+                    "weight": 0.7778,
+                    "w100means": "All SMEs did not experience incidents leading to destruction or corruption of data"
+                  },
+                  {
+                    "indicator": "SMEs: Security Incidents - Disclosure of confidential data",
+                    "algorithm": "Share of SMEs that did not experience ICT security related incidents leading to: disclosure of confidential data (e.g. due to intrusion, pharming, phishing attack, actions by own employees intentionally or unintentionally)\n\nValue = 100 - Value of variable E_SEC2ICNF (\"Enterprises experienced ICT security related incidents leading to: disclosure of confidential data (e.g. due to intrusion, pharming, phishing attack, actions by own employees intentionally or unintentionally)\")\n\nSource:  Eurostat - European Union survey on ICT usage in enterprises",
+                    "source": "Eurostat",
+                    "scores": [
+                      {
+                        "euAverage": 98.02,
+                        "numberOfCountries": {
+                          "above": 0,
+                          "around": 27,
+                          "below": 0
+                        },
+                        "speedometer": "Med",
+                        "deviation": [
+                          {
+                            "avg": 0.79,
+                            "max": 1.28,
+                            "min": -2.42
+                          }
+                        ]
+                      }
+                    ],
+                    "referenceYear": "2022",
+                    "disclaimers": [0, 0, 3, 0],
+                    "weight": 0.7639,
+                    "w100means": "All SMEs did not experience incidents leading to disclosure of confidential data"
+                  },
+                  {
+                    "indicator": "SMEs: Security Incidents - Unavailability of ICT Services",
+                    "algorithm": "Share of SMEs that did not experience ICT security related incidents leading to: unavailability of ICT services (e.g. Denial of Service attacks, ransomware attacks, hardware or software failures)\n\nValue = 100 - Value of variable E_SECI2USV <U+201C>Enterprises (SMEs) experienced at least once problems due to ICT security incident: unavailability of ICT services<U+201D>\n\nSource:  Eurostat - European Union survey on ICT usage in enterprises",
+                    "source": "Eurostat",
+                    "scores": [
+                      {
+                        "euAverage": 82.37,
+                        "numberOfCountries": {
+                          "above": 0,
+                          "around": 26,
+                          "below": 1
+                        },
+                        "speedometer": "Med",
+                        "deviation": [
+                          {
+                            "avg": 6.02,
+                            "max": 9.43,
+                            "min": -22.37
+                          }
+                        ]
+                      }
+                    ],
+                    "referenceYear": "2022",
+                    "disclaimers": [0, 0, 3, 0],
+                    "weight": 0.7639,
+                    "w100means": "All SMEs did not experience incidents leading to unavailability of ICT services"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Operations",
+            "description": "This area describes the ability of a MS to carry out operations to ensure resilience.",
+            "subareas": [
+              {
+                "name": "National-level response preparedness",
+                "description": "Extent to which a country is prepared to deal with cyber-related issues.",
+                "indicators": [
+                  {
+                    "indicator": "Dedicated cybercrime establishment within law enforcement and prosecution offices",
+                    "algorithm": "Value  = SUM ( Score for Qx* ) / Maximum total score\n\n*Scoring based on adapted NCAF maturity levels, objective 12 \"Address cybercrime\"",
+                    "source": "MS",
+                    "scores": [
+                      {
+                        "euAverage": 66.16,
+                        "numberOfCountries": {
+                          "above": 9,
+                          "around": 10,
+                          "below": 8
+                        },
+                        "speedometer": "Med",
+                        "deviation": [
+                          {
+                            "avg": 20.03,
+                            "max": 33.84,
+                            "min": -52.37
+                          }
+                        ]
+                      }
+                    ],
+                    "referenceYear": "2024",
+                    "disclaimers": [0, 0, 3, 0],
+                    "weight": 0.5988,
+                    "w100means": "In all EU Member States, cybecrime establishments within law enforcement and prosecution offices have a high level of maturity"
+                  },
+                  {
+                    "indicator": "Incident reporting implementation",
+                    "algorithm": "Value  = SUM ( Score for Qx* ) / Maximum total score \n\n*Scoring based on adapted NCAF maturity levels, objective 13 \"Establish incident reporting mechanisms\"",
+                    "source": "MS",
+                    "scores": [
+                      {
+                        "euAverage": 60.43,
+                        "numberOfCountries": {
+                          "above": 14,
+                          "around": 4,
+                          "below": 9
+                        },
+                        "speedometer": "High",
+                        "deviation": [
+                          {
+                            "avg": 17.66,
+                            "max": 39.57,
+                            "min": -28.85
+                          }
+                        ]
+                      }
+                    ],
+                    "referenceYear": "2024",
+                    "disclaimers": [0, 0, 3, 0],
+                    "weight": 0.9475,
+                    "w100means": "In all EU Member States, incident reporting processes and tools have a high level of maturity"
+                  },
+                  {
+                    "indicator": "Threat monitoring at national level",
+                    "algorithm": "Value = SUM ( Score for Qx* ) / Maximum total score\n\n*Scoring based on adapted NCAF maturity levels, objective 11 \"Protect critical information infrastructure\"",
+                    "source": "MS",
+                    "scores": [
+                      {
+                        "euAverage": 89.2,
+                        "numberOfCountries": {
+                          "above": 10,
+                          "around": 12,
+                          "below": 5
+                        },
+                        "speedometer": "Med",
+                        "deviation": [
+                          {
+                            "avg": 9.83,
+                            "max": 10.8,
+                            "min": -39.2
+                          }
+                        ]
+                      }
+                    ],
+                    "referenceYear": "2024",
+                    "disclaimers": [0, 0, 3, 0],
+                    "weight": 0.9321,
+                    "w100means": "In all EU Member States, tools and processes to monitor and communicate threats, including to important/essential entities, have a high level of maturity"
+                  },
+                  {
+                    "indicator": "CSIRT(s) certification",
+                    "algorithm": "Share of trusted introducer certified CSIRTs\n\nValue=  # of Certified CSIRTs/CSIRTs Under Re-Certification  in a country/# of CSIRTs in a country that are either CNW members, FIRST members or TI Listed/Certfied/Accredited\n\nSource: ENISA - CSIRTs by country\n\n",
+                    "source": "ENISA - CSIRTs by country map",
+                    "scores": [
+                      {
+                        "euAverage": 10.31,
+                        "numberOfCountries": {
+                          "above": 5,
+                          "around": 11,
+                          "below": 11
+                        },
+                        "speedometer": "Med",
+                        "deviation": [
+                          {
+                            "avg": 10.58,
+                            "max": 27.19,
+                            "min": -10.31
+                          }
+                        ]
+                      }
+                    ],
+                    "referenceYear": "2024",
+                    "disclaimers": [0, 0, 3, 0],
+                    "weight": 0.8712,
+                    "w100means": "In all EU Member States, CSIRTs  are TI certified"
+                  }
+                ]
+              },
+              {
+                "name": "Operational cooperation",
+                "description": "Definition of a framework for cooperation at the national level.",
+                "indicators": [
+                  {
+                    "indicator": "Cooperation at a national level",
+                    "algorithm": "Value  = SUM ( Score for Qx) / Maximum total score\n",
+                    "source": "MS",
+                    "scores": [
+                      {
+                        "euAverage": 68.09,
+                        "numberOfCountries": {
+                          "above": 9,
+                          "around": 9,
+                          "below": 9
+                        },
+                        "speedometer": "High",
+                        "deviation": [
+                          {
+                            "avg": 17.61,
+                            "max": 31.91,
+                            "min": -38.09
+                          }
+                        ]
+                      }
+                    ],
+                    "referenceYear": "2024",
+                    "disclaimers": [0, 0, 3, 0],
+                    "weight": 0.9506,
+                    "w100means": "All EU Member States have implemented all relevant measures to ensure national-level cooperation"
+                  },
+                  {
+                    "indicator": "Establishment of a national reporting scheme for major cyber incidents",
+                    "algorithm": "Value = SUM ( Score for Qx* ) / Maximum total score \n\n*Q1 based on ES-IMC, R-GI-OE2-01 Incident taxonomy\n*Scoring based on adapted NCAF maturity levels, objective 13 \"Establish incident reporting mechanisms\"",
+                    "source": "MS",
+                    "scores": [
+                      {
+                        "euAverage": 69.27,
+                        "numberOfCountries": {
+                          "above": 9,
+                          "around": 12,
+                          "below": 6
+                        },
+                        "speedometer": "Med",
+                        "deviation": [
+                          {
+                            "avg": 14.75,
+                            "max": 30.73,
+                            "min": -47.05
+                          }
+                        ]
+                      }
+                    ],
+                    "referenceYear": "2024",
+                    "disclaimers": [0, 0, 3, 0],
+                    "weight": 0.7685,
+                    "w100means": "In all EU Member States, the national reporting scheme for significant incidents has a high level of maturity"
+                  },
+                  {
+                    "indicator": "Establishment of operational cooperation mechanisms against cybercrime",
+                    "algorithm": "Value = SUM ( Score for Qx* ) / Maximum total score\n\n*Scoring based on adapted NCAF maturity levels, objective 12 \"Address cybercrime\"",
+                    "source": "MS",
+                    "scores": [
+                      {
+                        "euAverage": 79.08,
+                        "numberOfCountries": {
+                          "above": 11,
+                          "around": 9,
+                          "below": 7
+                        },
+                        "speedometer": "High",
+                        "deviation": [
+                          {
+                            "avg": 18.25,
+                            "max": 20.92,
+                            "min": -58.49
+                          }
+                        ]
+                      }
+                    ],
+                    "referenceYear": "2024",
+                    "disclaimers": [0, 0, 3, 0],
+                    "weight": 0.6173,
+                    "w100means": "In all EU Member States, operational cooperation mechanisms against cybercrime have a high level of maturity"
+                  },
+                  {
+                    "indicator": "CSIRTs international presence",
+                    "algorithm": "Share of CSIRTs that participate in international activities\n\nValue = #of CSIRT Teams member of FIRST in country+#of CSIRT Teams listed-accredited-certified TI/# of CSIRTs in a country that are either CNW members, FIRST members or TI Listed/Certfied/Accredited- average share of CSIRTs that are either FIRST members or L/C/A or both\n\nSource: ENISA - CSIRTs by country",
+                    "source": "ENISA - CSIRTs by country map",
+                    "scores": [
+                      {
+                        "euAverage": 97.62,
+                        "numberOfCountries": {
+                          "above": 0,
+                          "around": 27,
+                          "below": 0
+                        },
+                        "speedometer": "Med",
+                        "deviation": [
+                          {
+                            "avg": 2.87,
+                            "max": 2.38,
+                            "min": -7.62
+                          }
+                        ]
+                      }
+                    ],
+                    "referenceYear": "2024",
+                    "disclaimers": [0, 0, 3, 0],
+                    "weight": 0.7273,
+                    "w100means": "In all EU Member States, CSIRTs are FIRST members and TI Listed/Accredited/Certified"
+                  }
+                ]
+              },
+              {
+                "name": "Resilience of key operators ",
+                "description": "Resilience of key operators in\nterms of incidents and their duration.",
+                "indicators": [
+                  {
+                    "indicator": "Participation by essential and important entities in a national or EU-level ISAC ",
+                    "algorithm": "Value = SUM ( Score for Qx* ) / Maximum total score\n",
+                    "source": "MS",
+                    "scores": [
+                      {
+                        "euAverage": 44.44,
+                        "numberOfCountries": {
+                          "above": 8,
+                          "around": 16,
+                          "below": 3
+                        },
+                        "speedometer": "Med",
+                        "deviation": [
+                          {
+                            "avg": 18.15,
+                            "max": 55.56,
+                            "min": -34.44
+                          }
+                        ]
+                      }
+                    ],
+                    "referenceYear": "2024",
+                    "disclaimers": [0, 0, 3, 0],
+                    "weight": 0.6636,
+                    "w100means": "All essential/important entities in the EU are members of at least one ISAC, and each EU Member State  monitors such participation"
+                  },
+                  {
+                    "indicator": "E-communications resilience (EECC) - cases",
+                    "algorithm": "e-communication resilience based on serious incident cases\n\nValue = RANK (# of serious incident cases reported by citizen; high to low) / #EU MS\n\n# of serious incident cases reported per citizen =  # of serious incident cases reported by country for year X / Population size\n\nSource: ENISA Project - CIRAS",
+                    "source": "ENISA - CIRAS tool",
+                    "scores": [
+                      {
+                        "euAverage": 51.44,
+                        "numberOfCountries": {
+                          "above": 11,
+                          "around": 5,
+                          "below": 11
+                        },
+                        "speedometer": "High",
+                        "deviation": [
+                          {
+                            "avg": 24.57,
+                            "max": 41.15,
+                            "min": -47.74
+                          }
+                        ]
+                      }
+                    ],
+                    "referenceYear": "2023",
+                    "disclaimers": [0, 2, 3, 0],
+                    "weight": 0.1667,
+                    "w100means": "The average reflects how the EU compares to the EU country with the smallest number of serious incidents affecting e-communications per citizen. \n\n"
+                  },
+                  {
+                    "indicator": "E-communications resilience (EECC) - duration",
+                    "algorithm": "e-communication resilience based on serious outage times\n\nValue = RANK (SUM(serious incident reported outage times) /citizens by country); high to low) / #EU MS\n\nSource: ENISA Project - CIRAS",
+                    "source": "ENISA - CIRAS tool",
+                    "scores": [
+                      {
+                        "euAverage": 51.44,
+                        "numberOfCountries": {
+                          "above": 11,
+                          "around": 5,
+                          "below": 11
+                        },
+                        "speedometer": "High",
+                        "deviation": [
+                          {
+                            "avg": 24.57,
+                            "max": 41.15,
+                            "min": -47.74
+                          }
+                        ]
+                      }
+                    ],
+                    "referenceYear": "2023",
+                    "disclaimers": [0, 2, 3, 0],
+                    "weight": 0.1667,
+                    "w100means": "The average reflects how the EU compares to the EU country with the shortest  duration of serious incidents affecting e-communications. "
+                  },
+                  {
+                    "indicator": "E-trust services resilience (e-IDAS) - cases",
+                    "algorithm": "e-trust services resilience  based on serious incident cases\n\nValue = RANK (# serious of incident cases reported per QC for eSignatures issued; high to low) / #EU MS\n\n# of serious incident cases reported per QC for eSignatures issued =  # of serious incident cases reported by country for year X / number of QC for eSignatures issued\n\nSource: ENISA Project - CIRAS",
+                    "source": "ENISA - CIRAS tool",
+                    "scores": [
+                      {
+                        "euAverage": 41.02,
+                        "numberOfCountries": {
+                          "above": 14,
+                          "around": 5,
+                          "below": 8
+                        },
+                        "speedometer": "High",
+                        "deviation": [
+                          {
+                            "avg": 15.59,
+                            "max": 14.54,
+                            "min": -37.32
+                          }
+                        ]
+                      }
+                    ],
+                    "referenceYear": "2022",
+                    "disclaimers": [0, 2, 3, 0],
+                    "weight": 0.7652,
+                    "w100means": "The average reflects how the EU compares to the EU country with the smallest number of serious incidents affecting e-trust services per QC for eSignatures issued. "
+                  },
+                  {
+                    "indicator": "E-trust services resilience (e-IDAS) - duration",
+                    "algorithm": "e-communication resilience based on serious outage times\n\nValue = RANK (SUM(outage times) /citizens by country); high to low) / #EU MS\n\nSource: ENISA Project - CIRAS",
+                    "source": "ENISA - CIRAS tool",
+                    "scores": [
+                      {
+                        "euAverage": 41.15,
+                        "numberOfCountries": {
+                          "above": 14,
+                          "around": 5,
+                          "below": 8
+                        },
+                        "speedometer": "High",
+                        "deviation": [
+                          {
+                            "avg": 15.43,
+                            "max": 14.41,
+                            "min": -37.45
+                          }
+                        ]
+                      }
+                    ],
+                    "referenceYear": "2022",
+                    "disclaimers": [0, 2, 3, 0],
+                    "weight": 0.1667,
+                    "w100means": "The average reflects how the EU compares to the EU country with the shortest duration of serious incidents affecting e-trust services."
+                  },
+                  {
+                    "indicator": "Resilience of important/essential entities - cases",
+                    "algorithm": "Resilience of essential and important entities based on serious incident cases\n\nValue = RANK (# of incident cases reported per citizen: high to low) / #EU MS\n\n# of serious incident cases reported per citizen = # of serious incident cases reported by country for year X / Population size\n\nSource: ENISA Project - CIRAS",
+                    "source": "ENISA - CIRAS tool",
+                    "scores": [
+                      {
+                        "euAverage": 51.85,
+                        "numberOfCountries": {
+                          "above": 11,
+                          "around": 5,
+                          "below": 11
+                        },
+                        "speedometer": "High",
+                        "deviation": [
+                          {
+                            "avg": 24.97,
+                            "max": 48.15,
+                            "min": -48.15
+                          }
+                        ]
+                      }
+                    ],
+                    "referenceYear": "2023",
+                    "disclaimers": [0, 2, 3, 0],
+                    "weight": 0.1667,
+                    "w100means": "The average reflects how the EU compares to the EU country with the smallest number of serious incidents affecting important/essential entities"
+                  }
+                ]
+              },
+              {
+                "name": "Threat and vulnerability management ",
+                "description": "Efforts for threat and vulnerability management.",
+                "indicators": [
+                  {
+                    "indicator": "Cyber-attack surface nationwide",
+                    "algorithm": "RANK (average of the following variables normalised by IPs; rank high to low)/#EU MS:\n\n* Vulnerability - Number of IPs that are exposed to at least one vulnerability\n* SSL Expired - Number of IPs with expired SSL certificate\n* SSL Old Protocol - Number of IPs with old protocols\n* SSL self-signed - Number of IPs with self-signed SSL\n* OS Linux - Number of IPs with old OS Linux\n* OS Windows - Number of IPs with old OS Windows\n* Port - Number of IPs with Ports considered that should not be publicly available on Internet (port 23,161,68,69,81,110,137,389,445,3389,5353)\n* Banner - Number of IPs with \"authentication disabled\" banner \n\nSource: Shodan",
+                    "source": "Shodan",
+                    "scores": [
+                      {
+                        "euAverage": 51.85,
+                        "numberOfCountries": {
+                          "above": 11,
+                          "around": 5,
+                          "below": 11
+                        },
+                        "speedometer": "High",
+                        "deviation": [
+                          {
+                            "avg": 24.97,
+                            "max": 48.15,
+                            "min": -48.15
+                          }
+                        ]
+                      }
+                    ],
+                    "referenceYear": "2023",
+                    "disclaimers": [0, 2, 3, 0],
+                    "weight": 0.1667,
+                    "w100means": "The average reflects how the EU compares to the EU country with the smallest exposure to a relevant set of vulnerabilities."
+                  },
+                  {
+                    "indicator": "Vulnerability patching effectiveness",
+                    "algorithm": "RANK (Average normalised number of IPs exposed to the Shodan top-10 vulnerabilities; high to low)/#EU MS:\nThe list of CVEs:\ncve-2015-0204\ncve-2015-4000\ncve-2022-32548\ncve-2020-0796\ncve-2014-0160\ncve-2015-1635\nms15-034\ncve-2019-0708\ncve-2021-31206\ncve-2021-43798\ncve-2021-40438\ncve-2021-41773\ncve-2021-42013\ncve-2021-34473\n\nSource: Shodan",
+                    "source": "Shodan",
+                    "scores": [
+                      {
+                        "euAverage": 51.85,
+                        "numberOfCountries": {
+                          "above": 11,
+                          "around": 5,
+                          "below": 11
+                        },
+                        "speedometer": "High",
+                        "deviation": [
+                          {
+                            "avg": 24.97,
+                            "max": 48.15,
+                            "min": -48.15
+                          }
+                        ]
+                      }
+                    ],
+                    "referenceYear": "2023",
+                    "disclaimers": [0, 2, 3, 0],
+                    "weight": 0.1667,
+                    "w100means": "The average reflects how the EU compares to the EU country with the smallest exposure to major CVEs."
+                  },
+                  {
+                    "indicator": "Share of compromised IPs, services and servers",
+                    "algorithm": "RANK (Average normalised by number of IPs in a country; rank high to low)/#EU MS of:\n\n- Title - Number of websites with title containing \"hacked by\" or \"0wn3d by\"\n- Banner - Number of IPs containing \"hacked by\" text in published banner\n- Tag - Number of Compromised IPs, command and control seervers (C2) as marked by Shodan\n- Product - Number of IPs with known security offensive tools like Cobalt Strike Beacon, Posh C2, Deimos C2, Empire C2, Brute Ratel C4",
+                    "source": "Shodan",
+                    "scores": [
+                      {
+                        "euAverage": 51.85,
+                        "numberOfCountries": {
+                          "above": 11,
+                          "around": 5,
+                          "below": 11
+                        },
+                        "speedometer": "High",
+                        "deviation": [
+                          {
+                            "avg": 24.97,
+                            "max": 48.15,
+                            "min": -48.15
+                          }
+                        ]
+                      }
+                    ],
+                    "referenceYear": "2023",
+                    "disclaimers": [0, 2, 3, 0],
+                    "weight": 0.1667,
+                    "w100means": "The average reflects how the EU compares to the EU country with the smallest exposure to a relevant set of compromised IPs, services and servers."
+                  },
+                  {
+                    "indicator": "Use of secure internet standards",
+                    "algorithm": "RANK (Average normalised by number of IPs in a country; rank low to high)/#EU MS of:\n\n- SSL - Number of IPs using only modern TLS protocols without potential vulnerabilities, self-signed or expired certificates\n- IPv6 - Number of IPs version6 without old SSL/TLS protocols, potential vulnerabilities, self-signed or expired certificates\n- Banner - Number of websites with banners publishing \"Content-Security Policy\" without old SSL/TLS protocols, potential vulnerabilities, self-signed or expired certificates",
+                    "source": "Shodan",
+                    "scores": [
+                      {
+                        "euAverage": 51.85,
+                        "numberOfCountries": {
+                          "above": 11,
+                          "around": 5,
+                          "below": 11
+                        },
+                        "speedometer": "High",
+                        "deviation": [
+                          {
+                            "avg": 24.97,
+                            "max": 48.15,
+                            "min": -48.15
+                          }
+                        ]
+                      }
+                    ],
+                    "referenceYear": "2023",
+                    "disclaimers": [0, 2, 3, 0],
+                    "weight": 0.1667,
+                    "w100means": "The average reflects how the EU compares to the EU country with the highest usage of secure internet standards in the EU.\n\n"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Policy",
+            "description": "This area describes the state of policy development and implementation.",
+            "subareas": [
+              {
+                "name": "Coverage and enforcement of legal and regulatory framework",
+                "description": "Existence and coverage of national cybersecurity legislations.",
+                "indicators": [
+                  {
+                    "indicator": "Coverage of essential sectors by national  legislation",
+                    "algorithm": "Value = SUM ( Score for Qx* ) / Maximum total of sectors",
+                    "source": "MS",
+                    "scores": [
+                      {
+                        "euAverage": 59.88,
+                        "numberOfCountries": {
+                          "above": 6,
+                          "around": 11,
+                          "below": 10
+                        },
+                        "speedometer": "Med",
+                        "deviation": [
+                          {
+                            "avg": 15.5,
+                            "max": 40.12,
+                            "min": -20.99
+                          }
+                        ]
+                      }
+                    ],
+                    "referenceYear": "2024",
+                    "disclaimers": [0, 0, 3, 0],
+                    "weight": 0.7377,
+                    "w100means": "In all EU Member States, legislation covers all NIS2 sectors of high criticality, as well the NIS2 \"other critical sectors\""
+                  },
+                  {
+                    "indicator": "Coverage of vulnerability disclosure policies",
+                    "algorithm": "Value =   SUM ( Score Qx )  / Maximum total score",
+                    "source": "MS",
+                    "scores": [
+                      {
+                        "euAverage": 41.87,
+                        "numberOfCountries": {
+                          "above": 11,
+                          "around": 1,
+                          "below": 15
+                        },
+                        "speedometer": "Low",
+                        "deviation": [
+                          {
+                            "avg": 35.13,
+                            "max": 58.13,
+                            "min": -41.87
+                          }
+                        ]
+                      }
+                    ],
+                    "referenceYear": "2024",
+                    "disclaimers": [0, 0, 3, 0],
+                    "weight": 0.7438,
+                    "w100means": "In all EU Member States, vulnerabilty disclosure policies cover all NIS2 sectors of high criticality, as well the NIS2 \"other critical sectors\""
+                  },
+                  {
+                    "indicator": "Implementation of cybersecurity EU legislation",
+                    "algorithm": "Value = SUM(state of eligible Directive)/TOTAL(number of eligible Directives)\n    \nState of eligible (cybersecurity related parts of) Directive/Regulation[s] =\n- 100%  if the Directive is fully transposed (notification sent to the EC) and entered into force\n- 70%  when legislation has been transposed (notification sent to the EC), but entry into effect is in the future.\n- 40%  when national legislation partially covers Directive requirements, but full transposition is pending.\n- 0%  otherwise",
+                    "source": "MS",
+                    "scores": [
+                      {
+                        "euAverage": 52.9,
+                        "numberOfCountries": {
+                          "above": 7,
+                          "around": 15,
+                          "below": 5
+                        },
+                        "speedometer": "Med",
+                        "deviation": [
+                          {
+                            "avg": 9.64,
+                            "max": 22.1,
+                            "min": -21.23
+                          }
+                        ]
+                      }
+                    ],
+                    "referenceYear": "2024",
+                    "disclaimers": [0, 0, 3, 0],
+                    "weight": 0.7037,
+                    "w100means": "All EU Member States have implemented/transposed relevant EU regulations/directives on cybersecurity"
+                  },
+                  {
+                    "indicator": "Coverage and implementation of objectives in national cybersecurity strategy",
+                    "algorithm": "Value = SUM(Individual score per objective*) / number of pre-defined NCSS objectives \n\n* Individual score = SUM (Score for Qx**) / Maximum total score\n** Scoring based on adapted NCAF maturity levels for general common questions among the objectives",
+                    "source": "MS",
+                    "scores": [
+                      {
+                        "euAverage": 66.67,
+                        "numberOfCountries": {
+                          "above": 8,
+                          "around": 11,
+                          "below": 8
+                        },
+                        "speedometer": "Med",
+                        "deviation": [
+                          {
+                            "avg": 15.14,
+                            "max": 32.35,
+                            "min": -27.94
+                          }
+                        ]
+                      }
+                    ],
+                    "referenceYear": "2024",
+                    "disclaimers": [0, 0, 3, 0],
+                    "weight": 0.9352,
+                    "w100means": "In all EU Member States, the cybersecurity strategy fully covers relevant objectives and has mechanisms for updates"
+                  }
+                ]
+              },
+              {
+                "name": "International cooperation",
+                "description": "Alignment with international practices and policies.",
+                "indicators": [
+                  {
+                    "indicator": "Establishment of international cooperation mechanisms",
+                    "algorithm": "Value = SUM ( Score for Qx* ) / Maximum total score\n\n*Scoring based on adapted NCAF maturity levels, objective 17 \"Engage in international cooperation (not only with EU MS)\"",
+                    "source": "MS",
+                    "scores": [
+                      {
+                        "euAverage": 86.47,
+                        "numberOfCountries": {
+                          "above": 11,
+                          "around": 11,
+                          "below": 5
+                        },
+                        "speedometer": "High",
+                        "deviation": [
+                          {
+                            "avg": 14.85,
+                            "max": 13.53,
+                            "min": -77.77
+                          }
+                        ]
+                      }
+                    ],
+                    "referenceYear": "2024",
+                    "disclaimers": [0, 0, 3, 0],
+                    "weight": 0.6049,
+                    "w100means": "All EU Member States have implemented all relevant measures to implement and improve established cooperation mechanisms"
+                  },
+                  {
+                    "indicator": "International cooperation on cybersecurity",
+                    "algorithm": "Value = SUM ( Score for Qx* ) / Maximum total score \n\n*Scoring based on adapted NCAF maturity levels, objective 17 \"Engage in international cooperation (not only with EU MS)\"",
+                    "source": "MS",
+                    "scores": [
+                      {
+                        "euAverage": 75.62,
+                        "numberOfCountries": {
+                          "above": 12,
+                          "around": 6,
+                          "below": 9
+                        },
+                        "speedometer": "High",
+                        "deviation": [
+                          {
+                            "avg": 22.06,
+                            "max": 24.38,
+                            "min": -63.12
+                          }
+                        ]
+                      }
+                    ],
+                    "referenceYear": "2024",
+                    "disclaimers": [0, 0, 3, 0],
+                    "weight": 0.5864,
+                    "w100means": "In all EU Member States,  international cooperation on information sharing and the capacity to lead discussions have a high level of maturity"
+                  },
+                  {
+                    "indicator": "Alignment with the Council of Europe Convention on Cybercrime",
+                    "algorithm": "Alignment with the Convention on Cybercrime (ETS No. 185); the first protocol on xebophobia and racism (ETS No. 189) and the second additional protocol on enhanced co-operation and disclosure of electronic evidence (CETS No. 224)\n\nValue = Weight 1 (40%) * Alignment CETS 185 +  Weight 2 (40%) *  Alignment CETS 189 +  Weight 3 (20%)  * Alignment CETS 224\n\nAlignment with ETS 185 /CETS 189/CETS 224:\nIf a country has signed AND ratified AND the convention has  entered into force date - 100%\nelse if a country has signed AND ratified - 80%\nelse if a country has signed - 15%\nelse 0  \n\nSource: Council of Europe",
+                    "source": "Council of Europe",
+                    "scores": [
+                      {
+                        "euAverage": 70.22,
+                        "numberOfCountries": {
+                          "above": 13,
+                          "around": 6,
+                          "below": 8
+                        },
+                        "speedometer": "High",
+                        "deviation": [
+                          {
+                            "avg": 16.65,
+                            "max": 12.78,
+                            "min": -64.22
+                          }
+                        ]
+                      }
+                    ],
+                    "referenceYear": "2024",
+                    "disclaimers": [0, 0, 3, 0],
+                    "weight": 0.4318,
+                    "w100means": "In all EU Member States the following documents have been ratified and entered into force: Convention on Cybercrime (ETS No. 185); the first protocol on xebophobia and racism (ETS No. 189) and the second additional protocol on enhanced co-operation and disclosure of electronic evidence (CETS No. 224)"
+                  }
+                ]
+              },
+              {
+                "name": "National-level risk management",
+                "description": "Coverage of risk-management at national level.",
+                "indicators": [
+                  {
+                    "indicator": "Baseline cyber security risk management measures for essential/important entities",
+                    "algorithm": "Value = SUM ( Score for Qx*) / Maximum total score \n",
+                    "source": "MS",
+                    "scores": [
+                      {
+                        "euAverage": 67.41,
+                        "numberOfCountries": {
+                          "above": 7,
+                          "around": 14,
+                          "below": 6
+                        },
+                        "speedometer": "Med",
+                        "deviation": [
+                          {
+                            "avg": 12.13,
+                            "max": 32.59,
+                            "min": -32.41
+                          }
+                        ]
+                      }
+                    ],
+                    "referenceYear": "2024",
+                    "disclaimers": [0, 0, 3, 0],
+                    "weight": 0.8981,
+                    "w100means": "All EU Member States mandate a relevant set of risk management measures for essential/important entities and collects compliance data from all entities"
+                  },
+                  {
+                    "indicator": "Definition and compliance of cybersecurity baseline(s) for essential and important entities",
+                    "algorithm": "Value  = SUM ( Score for Qx*) / Maximum total score \n\n*Q1 based on ES-IMC, A-PC-OE3-02 - Cyber resilience requirements",
+                    "source": "MS",
+                    "scores": [
+                      {
+                        "euAverage": 57.04,
+                        "numberOfCountries": {
+                          "above": 10,
+                          "around": 5,
+                          "below": 12
+                        },
+                        "speedometer": "Low",
+                        "deviation": [
+                          {
+                            "avg": 21.84,
+                            "max": 42.96,
+                            "min": -57.04
+                          }
+                        ]
+                      }
+                    ],
+                    "referenceYear": "2024",
+                    "disclaimers": [0, 0, 3, 0],
+                    "weight": 0.9198,
+                    "w100means": "In all EU Member States, the process to define cybersecurity baseslines for essential/important entities and to check their compliance has a  high level of maturirty"
+                  },
+                  {
+                    "indicator": "Identification of essential and important entities",
+                    "algorithm": "Value = SUM ( Score for Qx) / Maximum total score",
+                    "source": "MS",
+                    "scores": [
+                      {
+                        "euAverage": 61.98,
+                        "numberOfCountries": {
+                          "above": 6,
+                          "around": 16,
+                          "below": 5
+                        },
+                        "speedometer": "Med",
+                        "deviation": [
+                          {
+                            "avg": 11.23,
+                            "max": 31.35,
+                            "min": -38.65
+                          }
+                        ]
+                      }
+                    ],
+                    "referenceYear": "2024",
+                    "disclaimers": [0, 0, 3, 0],
+                    "weight": 0.8827,
+                    "w100means": "In all EU Member States, the processes to deal with essential/important entities (e.g update of the list, identification of SMEs) have a high level of maturity"
+                  },
+                  {
+                    "indicator": "Implementation of supervisory measures for essential and important entities",
+                    "algorithm": "Value = SUM ( Score for Qx) / Maximum total score ",
+                    "source": "MS",
+                    "scores": [
+                      {
+                        "euAverage": 59.26,
+                        "numberOfCountries": {
+                          "above": 11,
+                          "around": 0,
+                          "below": 16
+                        },
+                        "speedometer": "Low",
+                        "deviation": [
+                          {
+                            "avg": 31.71,
+                            "max": 40.74,
+                            "min": -39.26
+                          }
+                        ]
+                      }
+                    ],
+                    "referenceYear": "2024",
+                    "disclaimers": [0, 0, 3, 0],
+                    "weight": 0.8796,
+                    "w100means": "In all EU Member States, all operators in scope of NIS2 are subjected to supervisory measures by national competent authorities"
+                  }
+                ]
+              },
+              {
+                "name": "Policies for knowledge ",
+                "description": "Definition of a policy framework for the development of cybersecurity knowledge.",
+                "indicators": [
+                  {
+                    "indicator": "Cybersecurity in higher education",
+                    "algorithm": "Value  = SUM ( Score for Qx* ) / Maximum total score \n*Scoring based on adapted NCAF maturity levels, objective 7 \"Strenghten training and educational programmes\"",
+                    "source": "MS",
+                    "scores": [
+                      {
+                        "euAverage": 69,
+                        "numberOfCountries": {
+                          "above": 9,
+                          "around": 9,
+                          "below": 9
+                        },
+                        "speedometer": "High",
+                        "deviation": [
+                          {
+                            "avg": 18.82,
+                            "max": 31,
+                            "min": -49.43
+                          }
+                        ]
+                      }
+                    ],
+                    "referenceYear": "2024",
+                    "disclaimers": [0, 0, 3, 0],
+                    "weight": 0.5772,
+                    "w100means": "All EU Member States implemented all relevant measures to promote, include and enhance cybersecurity in higher levels of education"
+                  },
+                  {
+                    "indicator": "Cybersecurity in national education curricula",
+                    "algorithm": "Value = SUM ( Score for Qx* ) / Maximum total score\n\n*Q1 based on ES-IMC, R-GI-OE2-01 Incident taxonomy\n*Scoring based on adapted NCAF maturity levels, objective 13 \"Establish incident reporting mechanisms\"",
+                    "source": "MS",
+                    "scores": [
+                      {
+                        "euAverage": 58.52,
+                        "numberOfCountries": {
+                          "above": 14,
+                          "around": 3,
+                          "below": 10
+                        },
+                        "speedometer": "High",
+                        "deviation": [
+                          {
+                            "avg": 25.35,
+                            "max": 41.48,
+                            "min": -58.52
+                          }
+                        ]
+                      }
+                    ],
+                    "referenceYear": "2024",
+                    "disclaimers": [0, 0, 3, 0],
+                    "weight": 0.5679,
+                    "w100means": "All EU Member States have integrated cybersecurity curricula for primary and seconday education and updates them regularly"
+                  },
+                  {
+                    "indicator": "Cybersecurity in R&D priorities and initiatives",
+                    "algorithm": "Value = SUM ( Score for Qx* ) / Maximum total score\n*Scoring based on adapted NCAF maturity levels, objective 8 \"Foster R&D\"",
+                    "source": "MS",
+                    "scores": [
+                      {
+                        "euAverage": 64.1,
+                        "numberOfCountries": {
+                          "above": 12,
+                          "around": 4,
+                          "below": 11
+                        },
+                        "speedometer": "High",
+                        "deviation": [
+                          {
+                            "avg": 28.11,
+                            "max": 35.9,
+                            "min": -64.1
+                          }
+                        ]
+                      }
+                    ],
+                    "referenceYear": "2024",
+                    "disclaimers": [0, 0, 3, 0],
+                    "weight": 0.5864,
+                    "w100means": "All EU Member States have implemented relevant measures to support and promote cybersecurity R&D activities"
+                  },
+                  {
+                    "indicator": "National and international cooperation for cybersecurity R&D",
+                    "algorithm": "Value = SUM ( Score for Qx* ) / Maximum total score \n*Scoring based on adapted NCAF maturity levels, objective 8 \"Foster R&D\"",
+                    "source": "MS",
+                    "scores": [
+                      {
+                        "euAverage": 82.96,
+                        "numberOfCountries": {
+                          "above": 12,
+                          "around": 9,
+                          "below": 6
+                        },
+                        "speedometer": "High",
+                        "deviation": [
+                          {
+                            "avg": 15.75,
+                            "max": 17.04,
+                            "min": -67.96
+                          }
+                        ]
+                      }
+                    ],
+                    "referenceYear": "2024",
+                    "disclaimers": [0, 0, 3, 0],
+                    "weight": 0.5802,
+                    "w100means": "In all EU Member States, cooperation with national and international actors on cybersecurity R&D has a high-level of maturity"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
